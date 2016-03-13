@@ -1,0 +1,105 @@
+{{ partial "header.html" .}}
+
+{{ partial "navbar.html"}}
+
+		
+	    <div class="jumbotron">
+	      <div class="container">
+	        <h1> {{ .Title }} </h1>
+	        <p> {{ .Description }} </p>
+	      
+		  
+		  </div>
+		  
+	    </div>
+		
+	<div class="row">
+		<div class="col-md-3">
+	
+		</div>
+		<div class="col-md-2">
+	<a class="btn btn-primary btn-block btn-sm" href={{ printf "/doc/%s" $.Params.pdf  }} role="button">PDF </a>
+		</div>
+		<div class="col-md-2">
+			  
+			    <a class="btn btn-primary btn-block btn-sm" href={{ printf "/doc/%s" $.Params.epub }} role="button">eBook</a>
+		</div>
+		<div class="col-md-2">
+		<a class="btn btn-primary btn-block btn-sm" href="#related" role="button">Related Materials</a>
+		</div>
+		<div class="col-md-3">
+	
+		</div>
+	</div>		
+	
+		
+		<hr>
+		
+	<div class="container">	
+	<div class="row">
+		<div class="col-md-2">
+			
+		</div>
+		<div class="col-md-8">
+			<h4 class="text-center"><a href="/about/#credits">Institutional Credits</a></h4>
+			<h2 class="text-center"> * * * </h2>	
+			<p id="lead"  class="lead"><em> {{ .Params.lead }} </em></p>
+			<hr>
+		</div>
+		
+		<div class="col-md-2">
+						
+		</div>
+	</div>	
+	</div>	
+
+		
+	<div class="container">	
+		<div class="row">
+			<div class="col-md-2">
+				
+			</div>
+			<div class="col-md-8">
+				{{ .Content }}
+			</div>
+			<div class="col-md-2">
+						
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">	
+	    
+		<h2 class="text-center"> * * * </h2>
+	
+    </div>
+	
+	<div class="container">	
+		<div class="row">
+			<div class="col-md-2">
+				
+			</div>
+			<div class="col-md-8">
+			<p class="text-right"><a href="#lead">Back to top</a></p>		
+			<div class="panel panel-primary">
+			  <div class="panel-heading">
+			    <h3 id="related" class="panel-title">Related materials</h3>
+			  </div>
+			  <div class="panel-body">
+			    <p>Power point presentation.</p>
+				<p>Tables.</p>
+				<p>Data.</p>
+		
+			  </div>
+		  </div>
+		  <p class="text-right"><a href="#lead">Back to top</a></p>	
+			</div>
+			<div class="col-md-2">
+							
+			</div>
+		</div>
+	</div>
+	
+	
+
+{{ partial "footer.html"}}
