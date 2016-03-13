@@ -1,7 +1,7 @@
 ---
 author: "Renato Vargas"
 date: 2016-03-12T13:09:19-06:00
-description: "An ecologically diverse nation."
+description: "An ecologically diverse nation"
 epub: "ecosystems.epub"
 lead: "Natural capital accounting revealed that out of fourteen ecosystem regions in Guatemala, nine are severely fragmented to a point where their integrity and the provision of natural goods and services can no longer be guaranteed."
 pdf: "ecosystems.pdf"
