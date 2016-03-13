@@ -66,8 +66,8 @@ Eco-regions are relatively large portions of the local landscape that hold speci
 
 Forest cover reached 4.2 million hectares in 2003, which was about 39% of the country's area. Conversely, land used for agriculture represented about 28% of the territory, and a combination of pastures, grasslands, shrubs and bushes took up about 31%. The distribution of the different land uses within the eco-regions was highly irregular, and it is noteworthy that over 30% of the total area was destined for perennial and annual crops in 7 of the 14 regions.
 
-There are large differences between regions. For example, the Yucatán Rainforest region had a forest cover of almost 78% in 2003, while the Dry forests of Central America had only about a 2% forest cover. Only five of the regions had a forest cover larger than the national mean, which revolved around 39%. These were the Rainforests of Petén-Veracruz (55%), the 
-
+There are large differences between regions. For example, the Yucatán Rainforest region had a forest cover of almost 78% in 2003, while the Dry forests of Central America had only about a 2% forest cover. Only five of the regions had a forest cover larger than the national mean, which revolved around 39%. These were the Rainforests of Petén-Veracruz (55%), the Rainforests of Yucatán (78%), **Bosques montanos de Centroamérica** (42%), 
+Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).
 
 
 
