@@ -69,6 +69,8 @@ Forest cover reached 4.2 million hectares in 2003, which was about 39% of the co
 There are large differences between regions. For example, the Yucatán Rainforest region had a forest cover of almost 78% in 2003, while the Dry forests of Central America had only about a 2% forest cover. Only five of the regions had a forest cover larger than the national mean, which revolved around 39%. These were the Rainforests of Petén-Veracruz (55%), the Rainforests of Yucatán (78%), **Bosques montanos de Centroamérica** (42%), 
 Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).
 
+The area with more agricultural activity in detriment of the forest cover is the Pacific Basin. There are 1.48 million hectares under cultivation. This is 61% of its surface area and almost half of all agricultural land in the country (49.4%). Its forest cover represents only 12% of its area. In contrast, the Gulf of Mexico Basin has a forest cover of 49% of its surface area (about 2.5 million hectares of forests).
+
 
 
 
