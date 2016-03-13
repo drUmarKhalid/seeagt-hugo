@@ -6,7 +6,7 @@
 	    <div class="jumbotron">
 	      <div class="container">
 	        <h1> {{ .Title }} </h1>
-	        <p> {{ .Description }} </p>
+	        <h3> {{ .Description }} </h3>
 	      
 		  
 		  </div>
@@ -19,13 +19,16 @@
 		</div>
 		<div class="col-md-2">
 	<a class="btn btn-primary btn-block btn-sm" href={{ printf "/doc/%s" $.Params.pdf  }} role="button">PDF </a>
+	<br>
 		</div>
 		<div class="col-md-2">
 			  
 			    <a class="btn btn-primary btn-block btn-sm" href={{ printf "/doc/%s" $.Params.epub }} role="button">eBook</a>
+				<br>
 		</div>
 		<div class="col-md-2">
 		<a class="btn btn-primary btn-block btn-sm" href="#related" role="button">Related Materials</a>
+		<br>
 		</div>
 		<div class="col-md-3">
 	
