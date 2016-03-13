@@ -71,7 +71,7 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).
 
 The area with more agricultural activity in detriment of the forest cover is the Pacific Basin. There are 1.48 million hectares under cultivation. This is 61% of its surface area and almost half of all agricultural land in the country (49.4%). Its forest cover represents only 12% of its area. In contrast, the Gulf of Mexico Basin has a forest cover of 49% of its surface area (about 2.5 million hectares of forests).
 
-
+* * *
 
 
 
