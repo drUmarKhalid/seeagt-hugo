@@ -90,6 +90,32 @@ Evaluating the health of an ecosystem is a difficult task given the complexities
 
 **Forest density** measures spatially the existence of forest cover in every square kilometer. The more dense a forest, the better its ecological integrity. The data showed that Guatemala's more dense forests--especially those with densities higher than 60%--, lost relevant portions of forest cover. The Gulf of Mexico Basin shows the most losses, with reductions of over 20%. Those area categories with no forest cover and those with densities lower than 40% showed increases of over 20%.
 
+**Forest fragmentation** measure the size of continuous blocks of forests and classifies them in 5 size categories. Between 1991 and 2001 four blocks of the larger categories (50,000 to 150,000 hectares) disapeared in the North of Guatemala, resulting in isolated areas of the 10,000 to 50,000 size category. In the South of the country, fragments were determined to be of the 0.5 to 2,000 hectare size predominantly.
 
+**Ecological integrity** is a measure that we were able to infer from the two measures previously explained. This showed that nine out of fourteen eco-regions do not possess the minimum connectivity and fragment size required to guarantee the provision of environmental services.
+
+The eco-regions with less than 10% forest cover showed the most ecological integrity problems, all of them located in the Pacific Basin. These were the Dry Forests of Central America, RaiRainforests of the Chiapas Sierra Madre and the Pacific Coast Dry North Mangroves.
+
+There were, however, three regions with fragments large enough to guarantee a minimum ecological integrity, with a surface of 1.4 million hectares, equivalent to 13% of the country's area. These were located in three eco-regions: Rainforest of Petén-Veracruz, Bosque Montano de Centroamérica, and Belicean Cost Mangroves.
+
+<!--**[Table 1. Evolution of forest density between 1991 and 2001]**-->
+
+<!--**[Figure 6. Evolution of forest fragments between 1991 and 2001]**-->
+
+<!--**[Figure 7. Forest fragments with ecological integrity (2003)]**-->
+
+## What drives the changes?
+
+A total of 73% of the 880,200 hectares that lost their forest cover between 1991 and 2003 became lands for agricultural uses. This is consistent with the transformation of 642,424 hectares of forest to annual and perennial crops (133,230 hectares), shrubs and bushes (289,133 hectares), and pastures (133,230 hectares). About 80% of forests from Arbustal espinoso del Valle del Motagua, Rainforests of the Chiapas Sierra Madre, Rainforests of Petén-Veracruz, and Dry Forests of Central America, changed to either crops, shrubs, bushes, or pastures. 
+
+<!--**[Table 2. Changes in forest cover and other uses in hectares between 1991 and 2003]**-->
+
+## What are the economic costs of the degradation?
+
+We evaluated the loss of two environmental services in order to determine effects of the degradation of forests. On the one hand we assessed the loss of the ability of forests to control erosion, and on the other we studied their capacity to store carbon. Our data showed that losses regarding these factors were equivalent to Q2,919.4 million  (about $374.3 million) between 1991 and 2003. 
+
+Deforestation in the various regions resulted in the loss of 15 million tons of soil in the form of erosion, equivalent to Q1,150 million (about $147.4 million). We obtained these numbers from the loss of macro-nutrients (nitrogen, phosphor, and potassium) in every ton of eroded soil, depending to its category. Regions with the most losses were Rainforests of Petén-Veracruz (Q.733.5 million or $94 million), and Pine-Oak Forests of Central America (Q.237.3 million or $30.4 million).
+
+As a consequence of the loss of forest cover, 368,622,243 tons of CO<sub>2</sub> were released into the atmosphere, with at total cost of Q.1,769.4 million (about $226.8 million) at international carbon market prices. Of these losses, 85% can be attributed to the loss of forest cover in the Rainforests of Petén-Veracruz and the Pine-Oak Forests of Central America.
 
 
