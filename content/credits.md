@@ -1,11 +1,11 @@
 ---
 date: "2016-01-21T19:56:02-06:00"
-title: "About the reports"
-description: "Reaching an international audience"
+title: "Credits of the SEEA Guatemala"
+description: "A multi-disciplinary effort"
 
 ---
 
-<h2 id="credits">Credits of the SEEA Guatemala</h2>
+
 
 <p><strong>General coordination:</strong></p>
 <p>Juventino Gálvez</p>
