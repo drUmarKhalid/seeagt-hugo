@@ -97,9 +97,21 @@
 			    <h3 id="related" class="panel-title">Related materials</h3>
 			  </div>
 			  <div class="panel-body">
-			    <p>Power point presentation.</p>
-				<p>Tables.</p>
-				<p>Data.</p>
+
+				<table class="table table-condensed table-striped table-bordered">
+					<tr>
+						<th>Name</th>
+						<th class="text-center">Type</th>
+						<th class="text-center">Link</th>
+					</tr>
+				  {{ range .Params.relatedmaterial }}
+				    <tr>
+						<td>{{ .short }} </td>
+						<td class="text-center">{{ .filetype }}</td>
+						<td><a class="btn btn-primary btn-block btn-xs" href={{with $x := .filename}}{{printf "/doc/%s" $x}}{{end}}>Download</a></td>
+					</tr>
+				  {{ end }}
+				</table>
 		
 			  </div>
 		  </div>

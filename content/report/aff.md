@@ -4,8 +4,20 @@ title: "Agriculture, Forestry, and Fisheries"
 description: "Understanding the Guatemalan food basket"
 author: "Renato Vargas"
 pdf: "aff.pdf"
-epub: "aff.epub"
-lead: "How natural capital accounting revealed that a country that feeds on maize and beans leaves the production of these crops entirely up to climatic chance."
+lead: "How natural capital accounting revealed that a country that feeds on maize and beans leaves the production of these crops entirely up to weather chance."
+relatedmaterial:
+  -
+    filename: "aff.pdf"
+    short: "Understanding the Guatemalan Food Basket"
+    filetype: "pdf"
+  -
+    filename: "CuentaSAN.pptx"
+    short: "SEEA AFF presentation"
+    filetype: "pptx"
+  -
+    filename: "aff.xlsx"
+    short: "SEEA AFF tables and figures"
+    filetype: "xlsx"
 
 ---
 
