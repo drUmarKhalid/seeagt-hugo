@@ -12,9 +12,10 @@
 		  </div>
 		  
 	    </div>
+
 <div class="container">		
 	<div class="row">
-		<div class="col-md-3">
+		<div class="col-md-4">
 	
 		</div>
 		<div class="col-md-2">
@@ -25,24 +26,17 @@
 	<a class="btn btn-primary btn-block btn-sm" href={{ printf "/doc/%s" $.Params.pdf  }} role="button">PDF </a>
 	<br>
 		</div>
-		<!--
-		<div class="col-md-2">
-			  
-			    <a class="btn btn-primary btn-block btn-sm" href={{ printf "/doc/%s" $.Params.epub }} role="button">eBook</a>
-				<br>
-		</div>
-		-->	
-		<div class="col-md-2">
-		<a class="btn btn-primary btn-block btn-sm" href="#related" role="button">Related Materials</a>
-		<br>
-		</div>
-		<div class="col-md-3">
-	
+		
+		<div class="col-md-4">
+	{{ with .Params.relatedmaterial}}	
+       <p class="text-right"><a href="#related">Related Material</a></p>
+	{{ end }}
 		</div>
 	</div>		
 </div>	
-		
-		<hr>
+	
+		<hr id="startarticle">
+	
 		
 	<div class="container">	
 	<div class="row">
@@ -57,7 +51,7 @@
 		</div>
 		
 		<div class="col-md-2">
-						
+					
 		</div>
 	</div>	
 	</div>	
@@ -68,7 +62,7 @@
 			<div class="col-md-2">
 				
 			</div>
-			<div id="startarticle" class="col-md-8">
+			<div class="col-md-8">
 				{{ .Content }}
 			</div>
 			<div class="col-md-2">
@@ -85,16 +79,19 @@
 	    </div>
     </div>
 	
-	<div class="container">	
+	
+	<div class="container">	<!--Starts Related materials frame -->
 		<div class="row">
 			<div class="col-md-2">
 				
 			</div>
 			<div class="col-md-8">
-			<p class="text-right"><a href="#top">Back to top</a></p>		
+			<p class="text-right"><a href="#top">Back to top</a></p>
+			
+			{{ with .Params.relatedmaterial }}		
 			<div class="panel panel-primary">
 			  <div class="panel-heading">
-			    <h3 id="related" class="panel-title">Related materials</h3>
+			    <h3 id="related" class="panel-title">Related material</h3>
 			  </div>
 			  
 
@@ -104,7 +101,7 @@
 						<th class="text-center">Type</th>
 						<th class="text-center">Link</th>
 					</tr>
-				  {{ range .Params.relatedmaterial }}
+				  {{ range . }}
 				    <tr>
 						<td>{{ .short }} </td>
 						<td class="text-center">{{ .filetype }}</td>
@@ -117,11 +114,12 @@
 		  </div>
 		  <p class="text-right"><a href="#top">Back to top</a></p>	
 			</div>
+			{{end}}
 			<div class="col-md-2">
 							
 			</div>
 		</div>
-	</div>
+	</div> <!--End Related materials frame-->
 	
 	
 
