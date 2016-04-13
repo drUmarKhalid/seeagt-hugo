@@ -4,7 +4,7 @@ title: "Agriculture, Forestry, and Fisheries"
 description: "Understanding the Guatemalan food basket"
 author: "Renato Vargas"
 pdf: "aff.pdf"
-lead: "How natural capital accounting revealed that a country that feeds on maize and beans leaves the production of these crops entirely up to weather chance."
+lead: "How natural capital accounting revealed that a country that feeds on maize and beans leaves the production of these crops entirely up to climate variability."
 relatedmaterial:
   -
     filename: "aff.pdf"
@@ -90,7 +90,7 @@ For example, table 1 shows the output and import of various crops in metric tons
 
 It is also interesting to see that the production of beans, which are a staple food for Guatemalans, was not as large in terms of volume as that of maize. It represented 5% of total supply, which was comparable to wheat (6%), potatoes (6%), and other seeds and oily fruits (5%).
 
-The external dependency of several products is also noteworthy. For example, most wheat was imported (99.7%). Also, 70% of unprocessed rice came from imports also. As much as maize has been a part of the Guatemalan diet for centuries, about 21% of it was imported. And even if supply of soy might not be important in terms of volume, a third of it came from imports.
+The external dependence of several products is also noteworthy. For example, most wheat was imported (99.7%). Also, 70% of unprocessed rice came from imports also. As much as maize has been a part of the Guatemalan diet for centuries, about 21% of it was imported. And even if supply of soy might not be important in terms of volume, a third of it came from imports.
 
 <hr>
 
@@ -145,19 +145,73 @@ In terms of use of the same products, we grouped economic activities in a way th
 
 The decision to group industries that would naturally use crops as feed for animals had the intention of addressing the concern of large portions of the earth's surface being cleared for the production of animal food. Table 2 shows that the largest users of agricultural supply were manufactures, households, and the rest of the world (exports); not industries for feed. It would be reasonable to think that grain would be used by manufactures for the production of animal foods, but as we'll see later, volumes of those products were not relevant in the data.
 
+<hr>
+
+_Table 2. Physical use account for crops in 2010. (metric tons)_
+
+<table class="table table-striped">
+<tr><th></th><th>Industrias agrícolas para semilla</th><th>Industrias agrícolas para alimento</th><th>Otras industrias agrícolas</th><th>Industrias de prorcesamiento de alimentos</th><th>Otras industrias</th><th>Hoteles y restaurantes</th><th>Hogares</th><th>Variación de existencias</th><th>Exportaciones</th><th>Total</th></tr>
+ <tr><td>Café</td><td>0</td><td>0</td><td>0</td><td>5,611</td><td>0</td><td>0</td><td>1,125</td><td>740</td><td>235,402</td><td>242,878</td></tr>
+ <tr><td>Banano</td><td>0</td><td>0</td><td>0</td><td>4,412</td><td>0</td><td>7,190</td><td>1,259,160</td><td>0</td><td>1,368,940</td><td>2,639,702</td></tr>
+ <tr><td>Cardamomo</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>425</td><td>22,167</td><td>22,592</td></tr>
+ <tr><td>Maíz</td><td>29,393</td><td>15,171</td><td>0</td><td>596,650</td><td>29</td><td>339</td><td>2,434,820</td><td>-125,767</td><td>7,265</td><td>2,957,900</td></tr>
+ <tr><td>Sorgo</td><td>837</td><td>0</td><td>0</td><td>6,084</td><td>0</td><td>0</td><td>39,736</td><td>624</td><td>215</td><td>47,496</td></tr>
+ <tr><td>Arroz con cáscara</td><td>781</td><td>0</td><td>0</td><td>96,082</td><td>0</td><td>0</td><td>0</td><td>0</td><td>314</td><td>97,177</td></tr>
+ <tr><td>Trigo</td><td>777</td><td>0</td><td>0</td><td>490,698</td><td>0</td><td>116</td><td>535</td><td>1,718</td><td>3</td><td>493,848</td></tr>
+ <tr><td>Otros cereales ncp</td><td>104</td><td>0</td><td>0</td><td>11,507</td><td>0</td><td>4,811</td><td>7,429</td><td>297</td><td>186</td><td>24,334</td></tr>
+ <tr><td>Frijol</td><td>0</td><td>0</td><td>0</td><td>13,737</td><td>1,233</td><td>2,824</td><td>443,704</td><td>18</td><td>3,451</td><td>464,966</td></tr>
+ <tr><td>Otras legumbres ncp</td><td>0</td><td>0</td><td>0</td><td>2,468</td><td>156</td><td>1,430</td><td>20,134</td><td>0</td><td>157</td><td>24,345</td></tr>
+ <tr><td>Papa</td><td>6,357</td><td>0</td><td>0</td><td>801</td><td>0</td><td>16,074</td><td>427,779</td><td>0</td><td>33,889</td><td>484,899</td></tr>
+ <tr><td>Otras raíces y tubérculos ncp</td><td>6</td><td>0</td><td>0</td><td>101</td><td>0</td><td>0</td><td>17,150</td><td>0</td><td>366</td><td>17,623</td></tr>
+ <tr><td>Arveja china</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7,043</td><td>3,585</td><td>4,537</td><td>32,620</td><td>47,785</td></tr>
+ <tr><td>Brócoli</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>9,540</td><td>15,250</td><td>0</td><td>32,068</td><td>56,857</td></tr>
+ <tr><td>Repollo</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1,197</td><td>24,323</td><td>0</td><td>8,407</td><td>33,926</td></tr>
+ <tr><td>Ejote francés</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1,506</td><td>5,938</td><td>0</td><td>8,048</td><td>15,492</td></tr>
+ <tr><td>Hierbas frescas culinarias, flores y hojas comestibles</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7</td><td>5,793</td><td>0</td><td>0</td><td>5,800</td></tr>
+ <tr><td>Otras verduras ncp</td><td>0</td><td>0</td><td>0</td><td>3,325</td><td>491</td><td>15,570</td><td>1,270,660</td><td>-338</td><td>104,792</td><td>1,394,501</td></tr>
+ <tr><td>Melón</td><td>0</td><td>0</td><td>0</td><td>1,608</td><td>0</td><td>0</td><td>173,539</td><td>0</td><td>305,664</td><td>480,811</td></tr>
+ <tr><td>Mango</td><td>0</td><td>0</td><td>0</td><td>20,038</td><td>0</td><td>0</td><td>70,828</td><td>0</td><td>15,116</td><td>105,983</td></tr>
+ <tr><td>Berries</td><td>0</td><td>0</td><td>0</td><td>447</td><td>0</td><td>34</td><td>14,431</td><td>0</td><td>4,501</td><td>19,412</td></tr>
+ <tr><td>Otras frutas ncp y nueces</td><td>295</td><td>0</td><td>0</td><td>94,211</td><td>4,452</td><td>39,706</td><td>716,221</td><td>-98</td><td>214,361</td><td>1,069,148</td></tr>
+ <tr><td>Ajonjolí</td><td>277</td><td>0</td><td>0</td><td>7,188</td><td>0</td><td>0</td><td>16,138</td><td>211</td><td>23,144</td><td>46,958</td></tr>
+ <tr><td>Soya</td><td>4,624</td><td>0</td><td>0</td><td>5,236</td><td>0</td><td>1,370</td><td>135</td><td>0</td><td>203</td><td>11,569</td></tr>
+ <tr><td>Semilla de algodón</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>Otras semillas y frutos oleaginosos ncp</td><td>549</td><td>32,401</td><td>0</td><td>387,840</td><td>0</td><td>595</td><td>12,811</td><td>-423</td><td>520</td><td>434,294</td></tr>
+ <tr><td>Rosas</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>102,092</td><td>-92,593</td><td>1,271</td><td>10,770</td></tr>
+ <tr><td>Claveles</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1,795</td><td>0</td><td>79</td><td>1,874</td></tr>
+ <tr><td>Otras plantas vivas, flores y semillas ncp</td><td>28,103</td><td>0</td><td>0</td><td>87</td><td>335</td><td>96</td><td>4,252</td><td>12</td><td>42,043</td><td>74,928</td></tr>
+ <tr><td>Té verde</td><td>0</td><td>0</td><td>0</td><td>129</td><td>0</td><td>0</td><td>0</td><td>392</td><td>148</td><td>669</td></tr>
+ <tr><td>Cacao en grano</td><td>0</td><td>0</td><td>0</td><td>10,703</td><td>0</td><td>0</td><td>396</td><td>218</td><td>32</td><td>11,348</td></tr>
+ <tr><td>Otras plantas bebestibles ncp</td><td>0</td><td>0</td><td>0</td><td>75</td><td>180</td><td>0</td><td>1,174</td><td>-5</td><td>38</td><td>1,461</td></tr>
+ <tr><td>Especias</td><td>0</td><td>0</td><td>0</td><td>1,276</td><td>572</td><td>131</td><td>4,184</td><td>159</td><td>1,404</td><td>7,727</td></tr>
+ <tr><td>Tabaco sin elaborar</td><td>0</td><td>0</td><td>0</td><td>0</td><td>16,453</td><td>0</td><td>0</td><td>0</td><td>11,989</td><td>28,442</td></tr>
+ <tr><td>Caña de azúcar</td><td>961,639</td><td>0</td><td>0</td><td>19,047,100</td><td>0</td><td>23,791</td><td>56,792</td><td>-721,013</td><td>0</td><td>19,368,309</td></tr>
+ <tr><td>Algodón en oro</td><td>0</td><td>0</td><td>0</td><td>0</td><td>24,531</td><td>0</td><td>0</td><td>11</td><td>0</td><td>24,542</td></tr>
+ <tr><td>Otras materias vegetales sin elaborar ncp</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1,463</td><td>0</td><td>5,223</td><td>2,549</td><td>0</td><td>9,236</td></tr>
+ <tr><td>Total</td><td>1,033,743</td><td>47,572</td><td>0</td><td>20,807,414</td><td>49,896</td><td>133,370</td><td>7,157,133</td><td>-928,325</td><td>2,478,801</td><td>30,779,604</td></tr>
+</table>
+
+<small>Source: Iarna/Banguat (2010)</small>
+<hr>
+
+
 **[Table 2. Physical use account for crops. ABOUT HERE]**
+
+
+
+
 
 In the case of "soy" and "other live plants, flowers, and seeds," the data revealed that there was no use as feed, but an important share of their volume was used as seed (40% and 38% of all uses, respectively).
 
 ## How important is the food processing industry?
 
-Regarding those products with larger volumes in the economy, it is interesting to recognize the share used by the food processing industries at the national level. For example, in the case of maize, only 20% of all used volume had a final destination in manufacturing. This is consistent with the 80% (adjusted to extract the negative stock variation) that was consumed by households. It contrasts with the 99% of the supply of unprocessed rice and wheat that were used almost exclusively by the food processing industries. This does not mean that households didn't consume such products. It only means that they did so in their processed versions, such as precooked white rice and dehydrated breakfast gruel. As an example of this, the totality of sugar cane was used by the food processing industry.
+It is interesting to pay attention to the share of some products that is used by the food processing industry at the national level. For example, in the case of maize, only 20% of all used volume had a final destination in the food processing industries. This is consistent with the 80% (adjusted to extract the negative stock variation) that was consumed by households. It contrasts with the 99% of the supply of unprocessed rice and wheat that were used almost exclusively by the food processing industries. This does not mean that households didn't consume these products. It only means that they did so in their processed versions, such as precooked white rice and dehydrated breakfast gruel. As an example of this, the totality of sugar cane was used by the food processing industry.
 
 Aside from these exceptions, households did consume large volumes of cultivated products directly, which is consistent with the traditional market culture still present in most of the country. For example, they used 95% of beans, 88% of potatoes, 97% of other roots and tubers, 99% of fresh culinary herbs, 91% of other vegetables and 67% of all fruits, among others.
 
 **[Table 4. Supply of processed foods. ABOUT HERE]**
 
-We take note of the relative importance in terms of volume of fruit juices (52,897 tm), other bakery and pastry products (44,885 tm), preserves, fruit marmalades, purees and fruit pastes (31,592 tm), as well as prepared or canned legumes (35,039 tm). It is noteworthy that in this last category we can find canned refried beans which are increasingly popular in the Guatemalan diet.
+Also, we take note of the relative importance in terms of volume of fruit juices (52,897 tm), other bakery and pastry products (44,885 tm), preserves, fruit marmalades, purees and fruit pastes (31,592 tm), as well as that of prepared or canned legumes (35,039 tm). We can find canned refried beans in this last category, which have become increasingly popular in the Guatemalan diet.
 
 As illustrative as the supply of foods is in understanding food security topics, evaluating the use of those foods within the economy has more explanatory power. Table 5 shows that households consume about 23% of the volume of prepared legumes, while 68% becomes exports, and it also shows that they use about 73% of canned fruits. It is also relevant that only 36% of processed rice goes to households, while 62% becomes exports. Households also use about 20% of wheat flour and 60% of other types of flour.
 
@@ -169,9 +223,9 @@ Food production requires that we ensure water availability during the various gr
 
 **[Table 6. Crops land and water use. ABOUT HERE]**
 
-Maize production, as we've seen in terms of volume before, is highly important to Guatemalans. It represents also the largest water use among crops (4.8 million m<sup>3</sup>), which is comparable to sugar cane production. Nonetheless, the water used for the production of this crop comes exclusively from rain (rainfed agriculture). This is also the case for the production of beans, whose water use reaches 0.9 million m<sup>3</sup>.
+Maize production, as we've seen in terms of volume before, is highly important to Guatemalans. It represents also the largest water use among crops (4.8 million m<sup>3</sup>), which is comparable to that of sugar cane production. Nonetheless, the water used for the production of this crop comes exclusively from rain (rainfed agriculture). This is also the case for the production of beans, whose water use reaches 0.9 million m<sup>3</sup>.
 
-Similarly, sugar cane has also a total water use of 4.8 million m<sup>3</sup>. This is, however, a more industrialized production which uses several methods of water use: 56% rainfed, 24% aspersion, 17% gravity, and 3% other methods.
+Similarly, sugar cane has also a total water use of 4.8 million m<sup>3</sup>. This is, however, a more industrialized production which uses several methods of water provision: 56% rainfed, 24% aspersion, 17% gravity, and 3% other methods.
 
 Other relevant uses of water correspond with palm oil tree production (2.9 million m<sup>3</sup>, 52% of which come from irrigation), coffe (2.6 million m<sup>3</sup>, all rainfed agriculture) and bananas (1.4 million m<sup>3</sup>, 63% of which comes from irrigation).
 
@@ -183,15 +237,20 @@ It is more relevant to note that households use about 40% of the country's total
 
 ## What happens with fertilizers and nutrients in Guatemala?
 
-Statistical work on the use of fertilizers is at a very early stage in Guatemala and so it can be complicated to supply information in the format proposed by the manual. However there are some estimations by FAO. For them:
+Statistical work on the use of fertilizers is at a very early stage in Guatemala and so it can be complicated to supply information in the format proposed by the SEEA AFF manual. However there are some estimations by FAO. For them:
 
   "Fertilizer consumption measures the quantity of plant nutrients used per unit of arable land. Fertilizer products cover nitrogenous, potash, and phosphate fertilizers (including ground rock phosphate). Traditional nutrients--animal and plant manures--are not included. For the purpose of data dissemination, FAO has adopted the concept of a calendar year (January to December). Some countries compile fertilizer data on a calendar year basis, while others are on a split-year basis. Arable land includes land defined by the FAO as land under temporary crops (double-cropped areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens, and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded." (FAO 2016)
   
-Table 8 shows a time series of this indicator for the years 2002-2013. We see a growing trend, going from 189 kilograms per hectare in 2010 and reaching 256 kg/ha in 2013.
+The figure below shows a time series of this indicator for the years 2002-2013. We see a growing trend, going from 189 kilograms per hectare in 2010 and reaching 256 kg/ha in 2013.
 
-**[Table 8. Fertilizer consumption. ABOUT HERE]**
+_Figure 8. Fertilizer consumption (kilograms per hectare of arable land)_
 
-There is little data regarding nutrients and waste in the Guatemalan SEEA. Under other efforts, there is a food balance sheet developed by the National Institute of Statistics for the year 2013, and even if it is impractical to reproduce it here, it is important to note that it has information on internal availability; losses and wastes; internal use; available food per year in metric tons; and supply of food and nutrients per inhabitant for:
+<hr>
+<img src="/float/aff/aff-fertilizerperha.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 2. Fertilizer consumption (kilograms per hectare of arable land)_
+<hr>
+
+There is little data regarding nutrients and waste in the Guatemalan SEEA. However, there is a food balance sheet developed by the National Institute of Statistics for the year 2013, and even if it is impractical to reproduce it here, it is important to note that it has information on internal availability; losses and wastes; internal use; available food per year in metric tons; and supply of food and nutrients per inhabitant for:
 
 1. cereals;
 1. legumes;
@@ -216,7 +275,7 @@ _Figure 3. Total available calories_
 
 ## What do we know about the economics of it all?
 
-Table 9 shows the contribution of the different agricultural products to Guatemalan output in monetary terms for the year 2010. As we can see, the production of crops contributed around 9% of gross production, while cattle farming about 2%; the same as other agricultural products, forestry, and fisheries combined (2%). In total, all this production represents about 12% of the value added by the entire economy that year.
+Table 9 shows the contribution of the different agricultural products to the Guatemalan economy in monetary terms for the year 2010. As we can see, the production of crops contributed around 9% of gross production, while cattle farming about 2%; the same as other agricultural products, forestry, and fisheries combined (2%). In total, all this production represents about 12% of the value added of the entire economy in that year.
 
 **[Table 9. Total supply in monetary terms. ABOUT HERE]**
 
@@ -224,7 +283,7 @@ Table 10 shows the use of the same products in monetary terms. Households buy 59
 
 **[Table 10. Total use in monetary terms. ABOUT HERE]**
 
-We now turn to extended production and income accounts for agricultural industries and the rest of the economy. Table 11 shows "taxes less subsidies" which represents monetary flows to the government in the form of taxes; net operating surplus, which collects profits from all companies; mixed income which is a mixture of self compensation and returns to capital of small business owners; compensation of employees; and value added, which is the total wealth generated by all economic activities in the accounting period. 
+We now turn to extended production and income accounts for agricultural industries and the rest of the economy. Table 11 shows "taxes less subsidies" which represents monetary flows to the government in the form of taxes; net operating surplus, which is equivalent to profits from all companies; mixed income which is a mixture of self compensation and returns to capital of small business owners; compensation of employees; and value added, which is the total wealth generated by all economic activities in the accounting period. 
 
 **[Table 11. Extended production accounts. ABOUT HERE]**
 
@@ -238,13 +297,11 @@ A similar argument can be made of beans, which also depend entirely on rain wate
 
 It is also important to note the sheer amount of land used by maize and beans. Even if we have no land quality considerations in the data, the low yields of the lands used for these crops, coupled with lower levels of technical development and no irrigation provide an explanation to the considerable amounts of land used for their production.
 
-A number of products that have local markets are shown to be destined to the export market in their entirety. This might represent a compilation or estimation error. It is the case of vegetable oil, margarine, animal foods, bread, other bakery products, unrefined sugar from sugar cane, and molasses. Findings such as this one help improve the SEEA Central Framework of Guatemala.
+A number of products that have local markets are shown to be destined to the export market in their entirety. This might represent a compilation or estimation error. That is the case of vegetable oil, margarine, animal foods, bread, other bakery products, unrefined sugar from sugar cane, and molasses. Findings such as this can help improve the SEEA Central Framework of Guatemala and even its National Accounts.
 
-In terms of energy, the most important finding is that while agricultural industries use negligible fractions of the total energy use of Guatemala (less than 1%), households do use about 40% of it in the form of fuelwood for cooking. Judging by the considerably less energy use of households in the form of liquefied gas and electricity, it is safe to imply that Guatemalan food is to a great extent cooked with fuelwood.
+Finally, the most important finding regarding energy use is that while agricultural industries use negligible fractions of the total energy use of Guatemala (less than 1%), households do use about 40% of it in the form of fuelwood for cooking. Judging by the considerably less energy use of households in the form of liquefied gas and electricity, it is safe to imply that Guatemalan food is to a great extent cooked with fuelwood.
 
-<hr>
-
-## To learn more:
+## References:
 
 * BANGUAT \[Banco de Guatemala\] (2007). Sistema de Cuentas Nacionales 1993 –SCN93– Año base 2001 (Aspectos Metodológicos). Tomo I. Guatemala: Banco de Guatemala.
 * BANGUAT \[Banco de Guatemala\] (2013). Sistema de Cuentas Nacionales 1993 –SCN93– Año base 2001. Tomo II. Guatemala: Banco de Guatemala.
