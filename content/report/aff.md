@@ -215,21 +215,21 @@ Food production requires that we ensure water availability during the various gr
 
 <hr>
 
-**_Table 4. Crops land and water use. (hectares and cubic meters)_**
+**_Table 4. Crops land and water use. (hectares and million cubic meters)_**
 
 <table class="table table-striped">
 <thead><tr class="tableizer-firstrow"><th></th><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>(7)</th><th>(8)</th></tr></thead><tbody>
- <tr><td>Coffee</td><td>250,096</td><td>2,569,739,260</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2,569,739,260</td></tr>
- <tr><td>Bananas</td><td>63,585</td><td>535,828,530</td><td>341,077,072</td><td>0</td><td>477,507,901</td><td>79,584,650</td><td>898,169,623</td><td>1,433,998,153</td></tr>
- <tr><td>Maize</td><td>825,424</td><td>4,819,393,424</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4,819,393,424</td></tr>
- <tr><td>Palm oil tree</td><td>100,000</td><td>1,360,707,281</td><td>627,295,821</td><td>47,139,783</td><td>733,966,414</td><td>106,064,510</td><td>1,514,466,527</td><td>2,875,173,808</td></tr>
- <tr><td>Beans</td><td>354,092</td><td>931,612,204</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>931,612,204</td></tr>
- <tr><td>Sugar cane</td><td>241,500</td><td>2,698,038,626</td><td>1,129,743,133</td><td>16,774,974</td><td>805,198,742</td><td>161,758,676</td><td>2,113,475,525</td><td>4,811,514,151</td></tr>
- <tr><td>All other crops</td><td>1,236,786</td><td>2,267,877,241</td><td>588,965,701</td><td>204,691,471</td><td>399,430,929</td><td>240,368,473</td><td>1,433,456,575</td><td>3,701,333,816</td></tr>
- <tr><td>Total</td><td>3,071,482</td><td>15,183,196,566</td><td>2,687,081,727</td><td>268,606,228</td><td>2,416,103,986</td><td>587,776,308</td><td>5,959,568,249</td><td>21,142,764,815</td></tr>
+ <tr><td>Coffee</td><td>250,096</td><td>2,569.7</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>2,569.7</td></tr>
+ <tr><td>Bananas</td><td>63,585</td><td>535.8</td><td>341.1</td><td>0.0</td><td>477.5</td><td>79.6</td><td>898.2</td><td>1,434.0</td></tr>
+ <tr><td>Maize</td><td>825,424</td><td>4,819.4</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>4,819.4</td></tr>
+ <tr><td>Palm oil tree</td><td>100,000</td><td>1,360.7</td><td>627.3</td><td>47.1</td><td>734.0</td><td>106.1</td><td>1,514.5</td><td>2,875.2</td></tr>
+ <tr><td>Beans</td><td>354,092</td><td>931.6</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>931.6</td></tr>
+ <tr><td>Sugar cane</td><td>241,500</td><td>2,698.0</td><td>1,129.7</td><td>16.8</td><td>805.2</td><td>161.8</td><td>2,113.5</td><td>4,811.5</td></tr>
+ <tr><td>All other crops</td><td>1,236,786</td><td>2,267.9</td><td>589.0</td><td>204.7</td><td>399.4</td><td>240.4</td><td>1,433.5</td><td>3,701.3</td></tr>
+ <tr><td>Total</td><td>3,071,482</td><td>15,183</td><td>2,687</td><td>269</td><td>2,416</td><td>588</td><td>5,960</td><td>21,143</td></tr>
 </tbody></table>
 
-<small>(1) Cultivated area (ha); (2) Rainfed water use (m3); (3) Aspersion (m3); (4) Drip irrigation (m3); (5) Other irrigation methods (m3); (6) Total irrigation (m3); (7) Total water use (rainfed + total irrigation) (m3)</small>
+<small>(1) Cultivated area (ha); (2) Rainfed water use (m<sup>3</sup>); (3) Aspersion (m<sup>3</sup>); (4) Drip irrigation (m<sup>3</sup>); (5) Other irrigation methods (m<sup>3</sup>); (6) Total irrigation (m<sup>3</sup>); (7) Total water use (rainfed + total irrigation) (m<sup>3</sup>)</small>
 
 <small>Source: Iarna/Banguat (2010)</small>
 <hr>
