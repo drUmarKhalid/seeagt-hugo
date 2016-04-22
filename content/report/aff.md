@@ -243,8 +243,36 @@ Other relevant uses of water correspond with palm oil tree production (2.9 milli
 Table 7 shows the use of energy of various sources in Guatemala. It is interesting that agricultural production, which does use a certain amount of gasoline and diesel, only represents about 1% of total energy use in the country.
 
 It is more relevant to note that households use about 40% of the country's total energy use in the form of fuelwood. Judging by the 1% of total energy use that represent household gas or electricity use, it is implied that the main method of cooking in Guatemala is fuelwood.
+ 
+<hr>
 
-**[Table 7. Energy use. ABOUT HERE]**
+**_Table 4. Energy use (Terajoules)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th></th><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>(7)</th><th>(8)</th><th>(9)</th><th>(10)</th><th>(11)</th><th>Total</th></tr></thead><tbody>
+ <tr><td>Growing of coffee</td><td>0</td><td>0</td><td>0</td><td>199</td><td>395</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>139</td><td>733</td></tr>
+ <tr><td>Growing of bananas</td><td>0</td><td>0</td><td>0</td><td>69</td><td>150</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>219</td></tr>
+ <tr><td>Growing of cardamum</td><td>0</td><td>0</td><td>0</td><td>70</td><td>46</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>116</td></tr>
+ <tr><td>Growing of cereals</td><td>0</td><td>0</td><td>0</td><td>163</td><td>1,067</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1,230</td></tr>
+ <tr><td>Grwoing of roots and tubers</td><td>0</td><td>0</td><td>0</td><td>141</td><td>730</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>871</td></tr>
+ <tr><td>Growing of fruits and nuts</td><td>0</td><td>0</td><td>0</td><td>120</td><td>319</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>439</td></tr>
+ <tr><td>Other crops</td><td>0</td><td>0</td><td>0</td><td>60</td><td>159</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>219</td></tr>
+ <tr><td>Cattle farming</td><td>0</td><td>0</td><td>0</td><td>56</td><td>1,327</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>276</td><td>1,659</td></tr>
+ <tr><td>Forestry</td><td>0</td><td>0</td><td>0</td><td>130</td><td>890</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1,019</td></tr>
+ <tr><td>Fisheries</td><td>0</td><td>0</td><td>0</td><td>74</td><td>103</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>177</td></tr>
+ <tr><td>Manufactures, mining</td><td>38,008</td><td>2,829</td><td>19,988</td><td>7,406</td><td>14,628</td><td>8,310</td><td>0</td><td>2,706</td><td>3,989</td><td>0</td><td>7,252</td><td>105,114</td></tr>
+ <tr><td>Utilities</td><td>0</td><td>0</td><td>13,856</td><td>97</td><td>1,927</td><td>13,634</td><td>828</td><td>0</td><td>1,608</td><td>40,980</td><td>1,242</td><td>74,173</td></tr>
+ <tr><td>Other economic industries and services</td><td>1,304</td><td>0</td><td>335</td><td>10,925</td><td>30,271</td><td>695</td><td>1,839</td><td>628</td><td>640</td><td>0</td><td>13,441</td><td>60,078</td></tr>
+ <tr><td>Households</td><td>208,070</td><td>0</td><td>0</td><td>22,808</td><td>2,366</td><td>0</td><td>706</td><td>6,945</td><td>132</td><td>0</td><td>6,649</td><td>247,676</td></tr>
+ <tr><td>Exports</td><td>0</td><td>21,656</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>474</td><td>22,129</td></tr>
+ <tr><td>Stock variation</td><td>0</td><td>918</td><td>0</td><td>2,099</td><td>-1,405</td><td>1,163</td><td>-73</td><td>4,281</td><td>-2,246</td><td>0</td><td>0</td><td>4,737</td></tr>
+ <tr><td>Total</td><td>247,382</td><td>25,403</td><td>34,179</td><td>44,417</td><td>52,970</td><td>23,803</td><td>3,300</td><td>14,560</td><td>4,124</td><td>40,980</td><td>29,472</td><td>520,588</td></tr>
+</tbody></table>
+
+<small>(1) Fuelwood; (2) Crude oil; (3) Coal; (4) Gasoline; (5) Gas oil (diesel); (6) Fuel oil and bunker; (7) Kerosene; (8) Liquefied petroleum gas; (9) Oil derivatives; (10) Bagass; (11) Electricity</small>
+
+<small>Source: Iarna/Banguat (2010)</small>
+<hr>
 
 ## What happens with fertilizers and nutrients in Guatemala?
 
