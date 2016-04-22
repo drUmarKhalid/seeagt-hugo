@@ -215,7 +215,7 @@ Food production requires that we ensure water availability during the various gr
 
 <hr>
 
-**_Table 4. Crops land and water use. (hectares and million cubic meters)_**
+**_Table 4. Crops land and water use (hectares and million cubic meters)_**
 
 <table class="table table-striped">
 <thead><tr class="tableizer-firstrow"><th></th><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>(7)</th><th>(8)</th></tr></thead><tbody>
