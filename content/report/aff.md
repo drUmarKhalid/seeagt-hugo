@@ -90,11 +90,11 @@ For example, table 1 shows the output and import of various crops in metric tons
 
 It is also interesting to see that the production of beans, which are a staple food for Guatemalans, was not as large in terms of volume as that of maize. It represented 5% of total supply, which was comparable to wheat (6%), potatoes (6%), and other seeds and oily fruits (5%).
 
-The external dependence of several products is also noteworthy. For example, most wheat was imported (99.7%). Also, 70% of unprocessed rice came from imports also. As much as maize has been a part of the Guatemalan diet for centuries, about 21% of it was imported. And even if supply of soy might not be important in terms of volume, a third of it came from imports.
+The external dependence of several products is also noteworthy. For example, most wheat was imported (99.7%). Also, 70% of unprocessed rice came from imports also. In as much as maize has been a part of the Guatemalan diet for centuries, about 21% of it was imported. And even if supply of soy might not be important in terms of volume, a third of it came from imports.
 
 <hr>
 
-_Table 1. Physical supply account for crops in 2010. (metric tons)_
+**_Table 1. Physical supply account for crops in 2010. (metric tons)_**
 
 <table class="table table-striped">
 <thead><tr class="tableizer-firstrow"><th></th><th>Agricultural industries</th><th>Manufactures, utilities, and services</th><th>Imports</th><th>Total</th></tr></thead><tbody>
@@ -113,11 +113,12 @@ _Table 1. Physical supply account for crops in 2010. (metric tons)_
 </tbody></table>
 
 <small>Source: Iarna/Banguat (2010)</small>
+
 <hr>
 
 In terms of use of the same products, we grouped economic activities in a way that would make it more easy to identify the various steps in the food production chain. For that reason, we have industries that use crops as seed inputs, others that use it as animal feed, the food processing industry, hotels and restaurants, and the remaining industries of Guatemala, along with households and exports.
 
-The decision to group industries that would naturally use crops as feed for animals had the intention of addressing the concern of large portions of the earth's surface being cleared for the production of animal food. Figure 1 shows that the largest users of agricultural supply were manufactures, households, and the rest of the world (exports); not industries for feed. The figure is color coded in a way that makes evident the category with the biggest use share for each product (darker blue). It would be reasonable to think that grain would be used by manufactures for the production of animal foods, but as we'll see later, volumes of those products were not relevant in the data.
+The decision to group industries that would naturally use crops as feed for animals had the intention of addressing the concern of large portions of the earth's surface being cleared for the production of animal food. Figure 1 shows that the largest users of agricultural supply were manufactures, households, and the rest of the world (exports); not industries for feed. The figure is color coded in a way that makes evident the column with the biggest use share for each product showing in a darker blue. It would be reasonable to think that grain would be used by manufactures for the production of animal foods, but as we'll see later, volumes of those products were not relevant in the data. In the case of "soybeans" the data revealed that there was no use as feed, but an important share of their volume was used as seed (40%).
 
 <hr>
 <img src="/float/aff/aff-use.jpg" class="img-responsive" alt="Source: INE (2015)">
@@ -125,29 +126,92 @@ The decision to group industries that would naturally use crops as feed for anim
 <small>(1) Agricultural industries that use crops as seed; (2 Agricultural industries that use crops as feed; (3) Other agricultural industries; (4) Food processing industries; (5) Other industries; (6) Hotels and restaurants; (7) Households; (8) Stock variation; (9) Exports</small>
 
 
-_Figure 1. Physical use account for crops in 2010 (percentages)_
+**_Figure 1. Physical use account for crops in 2010 (percentages)_**
 
 <hr>
 
-In the case of "soybeans" the data revealed that there was no use as feed, but an important share of their volume was used as seed (40%).
-
 ## How important is the food processing industry?
 
-It is interesting to pay attention to the share of some products that is used by the food processing industry at the national level. For example, in the case of maize, only 20% of all used volume had a final destination in the food processing industries. This is consistent with the 80% (adjusted to extract the negative stock variation) that was consumed by households. It contrasts with the 99% of the supply of unprocessed rice and wheat that were used almost exclusively by the food processing industries. This does not mean that households didn't consume these products. It only means that they did so in their processed versions, such as precooked white rice and dehydrated breakfast gruel. As an example of this, the totality of sugar cane was used by the food processing industry.
+It is interesting to pay attention to the share of some products that is used by the food processing industry at the national level (in the manufactures column). For example, in the case of maize, only 20% of all used volume had a final destination in the food processing industries. This is consistent with the 80% (adjusted to extract the negative stock variation) that was consumed by households. It contrasts with the 99% of the supply of unprocessed rice and wheat that was used almost exclusively by the food processing industries. This does not mean that households didn't consume these products. It only means that they did so in their processed versions, such as precooked white rice and dehydrated breakfast gruel. As an example of this, the totality of sugar cane was used by the food processing industry.
 
 Aside from these exceptions, households did consume large volumes of cultivated products directly, which is consistent with the traditional market culture still present in most of the country. For example, they used 95% of beans, 88% of potatoes, 97% of other roots and tubers, 99% of fresh culinary herbs, 91% of other vegetables and 67% of all fruits, among others.
 
-**[Table 4. Supply of processed foods. ABOUT HERE]**
+<hr>
+
+**_Table 2. Supply of processed foods. (metric tons)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th></th><th>Agricultural industries</th><th>Manufactures, utilities, and services</th><th>Imports</th><th>Total</th></tr></thead><tbody>
+ <tr><td>Legumes and other preserved vegetables</td><td>0</td><td>0</td><td>35,039</td><td>35,039</td></tr>
+ <tr><td>Fruit juices and vegetable juices</td><td>0</td><td>29,374</td><td>23,523</td><td>52,897</td></tr>
+ <tr><td>Fruit and nuts</td><td>0</td><td>2,853</td><td>401</td><td>3,254</td></tr>
+ <tr><td>Jams, fruit jellies and fruit or nut puree</td><td>0</td><td>16,331</td><td>15,260</td><td>31,592</td></tr>
+ <tr><td>Other preserved fruits</td><td>0</td><td>45</td><td>0</td><td>45</td></tr>
+ <tr><td>Vegetable oil</td><td>0</td><td>61,248</td><td>125,167</td><td>186,415</td></tr>
+ <tr><td>Vegetable fats (except maize oil)</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>Margarine and similar preparations</td><td>0</td><td>2,281</td><td>8,656</td><td>10,937</td></tr>
+ <tr><td>Flours and meals of oil seeds or oleaginous fruits</td><td>0</td><td>0</td><td>368,656</td><td>368,656</td></tr>
+ <tr><td>Husked rice</td><td>0</td><td>0</td><td>3,457</td><td>3,457</td></tr>
+ <tr><td>Wheat or meslin flour</td><td>0</td><td>0</td><td>17,210</td><td>17,210</td></tr>
+ <tr><td>Cereal flours other than of wheat or meslin</td><td>0</td><td>0</td><td>114,942</td><td>114,942</td></tr>
+ <tr><td>Preparations used in animal feeding n.e.c.</td><td>0</td><td>18,367</td><td>33,559</td><td>51,926</td></tr>
+ <tr><td>Crispbread; rusks, toasted bread and similar toasted products</td><td>0</td><td>1,680</td><td>11</td><td>1,691</td></tr>
+ <tr><td>Gingerbread and the like; sweet biscuits; waffles and wafers</td><td>0</td><td>10,313</td><td>34,571</td><td>44,885</td></tr>
+ <tr><td>Raw cane or beet sugar</td><td>0</td><td>1,743,340</td><td>28</td><td>1,743,368</td></tr>
+ <tr><td>Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter</td><td>0</td><td>0</td><td>175</td><td>175</td></tr>
+ <tr><td>Molasses</td><td>0</td><td>304,311</td><td>1,129</td><td>305,440</td></tr>
+ <tr><td>Sugar confectionery (including white chocolate), not containing cocoa</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>Uncooked pasta, not stuffed or otherwise prepared</td><td>0</td><td>12,194</td><td>8,558</td><td>20,752</td></tr>
+ <tr><td>Total</td><td>0</td><td>2,202,337</td><td>790,342</td><td>2,992,680</td></tr>
+</tbody></table>
+
+
+<small>(1) Agricultural industries; (2) Food processing industry; (3); Other manufactures and services; (4) Hotels and restaurants; (5) Households; (6) Stock Variation; (7) Exports</small>
+
+<small>Source: Iarna/Banguat (2010)</small>
+<hr>
 
 Also, we take note of the relative importance in terms of volume of fruit juices (52,897 tm), other bakery and pastry products (44,885 tm), preserves, fruit marmalades, purees and fruit pastes (31,592 tm), as well as that of prepared or canned legumes (35,039 tm). We can find canned refried beans in this last category, which have become increasingly popular in the Guatemalan diet.
 
-As illustrative as the supply of foods is in understanding food security topics, evaluating the use of those foods within the economy has more explanatory power. Table 5 shows that households consume about 23% of the volume of prepared legumes, while 68% becomes exports, and it also shows that they use about 73% of canned fruits. It is also relevant that only 36% of processed rice goes to households, while 62% becomes exports. Households also use about 20% of wheat flour and 60% of other types of flour.
+As illustrative as the supply of foods is in understanding food security topics, evaluating the use of those foods within the economy has more explanatory power. Table 3 shows that households consume about 23% of the volume of prepared legumes, while 68% becomes exports, and it also shows that they use about 73% of canned fruits. It is also relevant that only 36% of processed rice goes to households, while 62% becomes exports. Households also use about 20% of wheat flour and 60% of other types of flour.
 
-**[Table 5. Use of processed foods. ABOUT HERE]**
+<hr>
+
+**_Table 3. Use of processed foods. (metric tons)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th></th><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>(7)</th><th>Total</th></tr></thead><tbody>
+ <tr><td>Legumes and other preserved vegetables</td><td>0</td><td>2,117</td><td>1</td><td>170</td><td>8,100</td><td>612</td><td>24,039</td><td>35,039</td></tr>
+ <tr><td>Fruit juices and vegetable juices</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>52,897</td><td>52,897</td></tr>
+ <tr><td>Fruit and nuts</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3,254</td><td>3,254</td></tr>
+ <tr><td>Jams, fruit jellies and fruit or nut puree</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>31,592</td><td>31,592</td></tr>
+ <tr><td>Other preserved fruits</td><td>0</td><td>7</td><td>0</td><td>2</td><td>33</td><td>3</td><td>0</td><td>45</td></tr>
+ <tr><td>Vegetable oil</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>186,415</td><td>186,415</td></tr>
+ <tr><td>Vegetable fats (except maize oil)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>Margarine and similar preparations</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>10,937</td><td>10,937</td></tr>
+ <tr><td>Flours and meals of oil seeds or oleaginous fruits</td><td>0</td><td>236,062</td><td>14,123</td><td>75,642</td><td>12,951</td><td>7,288</td><td>22,589</td><td>368,656</td></tr>
+ <tr><td>Husked rice</td><td>0</td><td>21</td><td>1</td><td>85</td><td>1,257</td><td>-38</td><td>2,131</td><td>3,457</td></tr>
+ <tr><td>Wheat or meslin flour</td><td>0</td><td>4,716</td><td>1</td><td>33</td><td>3,358</td><td>34</td><td>9,069</td><td>17,210</td></tr>
+ <tr><td>Cereal flours other than of wheat or meslin</td><td>0</td><td>9,463</td><td>736</td><td>81</td><td>70,259</td><td>2,275</td><td>32,128</td><td>114,942</td></tr>
+ <tr><td>Preparations used in animal feeding n.e.c.</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>51,926</td><td>51,926</td></tr>
+ <tr><td>Crispbread; rusks, toasted bread and similar toasted products</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1,691</td><td>1,691</td></tr>
+ <tr><td>Gingerbread and the like; sweet biscuits; waffles and wafers</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>44,885</td><td>44,885</td></tr>
+ <tr><td>Raw cane or beet sugar</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1,743,360</td><td>1,743,360</td></tr>
+ <tr><td>Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter</td><td>0</td><td>4</td><td>2</td><td>0</td><td>23</td><td>-4</td><td>149</td><td>175</td></tr>
+ <tr><td>Molasses</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>305,440</td><td>305,440</td></tr>
+ <tr><td>Sugar confectionery (including white chocolate), not containing cocoa</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>Other sugars</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>Uncooked pasta, not stuffed or otherwise prepared</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>20,752</td><td>20,752</td></tr>
+ <tr><td>Total</td><td>0</td><td>252,390</td><td>14,864</td><td>76,013</td><td>95,980</td><td>10,169</td><td>2,543,253</td><td>2,992,671</td></tr>
+</tbody></table>
+
+<small>Source: Iarna/Banguat (2010)</small>
+<hr>
+
 
 ## What do we know about water and energy use in this context?
 
-Food production requires that we ensure water availability during the various growth stages of the plants. Table 6 shows the different requirements of land and water for crops. Among uses of water it is important to distinguish between irrigated and rainfed agriculture. In the first case, producers must make sure that there is enough available water of quality for crops to grow. In the second case, producers depend on the availability of rain water, the hydrological cycle, and climate variability. 
+Food production requires that we ensure water availability during the various growth stages of crops. Table 6 shows the different requirements of land and water for crops. Among uses of water it is important to distinguish between irrigated and rainfed agriculture. In the first case, producers must make sure that there is enough available water of quality for crops to grow. In the second case, producers depend on the availability of rain water, the hydrological cycle, and climate variability. 
 
 **[Table 6. Crops land and water use. ABOUT HERE]**
 
