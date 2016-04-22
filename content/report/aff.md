@@ -165,9 +165,6 @@ Aside from these exceptions, households did consume large volumes of cultivated 
  <tr><td>Total</td><td>0</td><td>2,202,337</td><td>790,342</td><td>2,992,680</td></tr>
 </tbody></table>
 
-
-<small>(1) Agricultural industries; (2) Food processing industry; (3); Other manufactures and services; (4) Hotels and restaurants; (5) Households; (6) Stock Variation; (7) Exports</small>
-
 <small>Source: Iarna/Banguat (2010)</small>
 <hr>
 
@@ -204,6 +201,8 @@ As illustrative as the supply of foods is in understanding food security topics,
  <tr><td>Uncooked pasta, not stuffed or otherwise prepared</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>20,752</td><td>20,752</td></tr>
  <tr><td>Total</td><td>0</td><td>252,390</td><td>14,864</td><td>76,013</td><td>95,980</td><td>10,169</td><td>2,543,253</td><td>2,992,671</td></tr>
 </tbody></table>
+
+<small>(1) Agricultural industries; (2) Food processing industry; (3); Other manufactures and services; (4) Hotels and restaurants; (5) Households; (6) Stock Variation; (7) Exports</small>
 
 <small>Source: Iarna/Banguat (2010)</small>
 <hr>
