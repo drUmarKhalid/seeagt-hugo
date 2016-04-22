@@ -212,7 +212,6 @@ As illustrative as the supply of foods is in understanding food security topics,
 
 Food production requires that we ensure water availability during the various growth stages of crops. Table 6 shows the different requirements of land and water for crops. Among uses of water it is important to distinguish between irrigated and rainfed agriculture. In the first case, producers must make sure that there is enough available water of quality for crops to grow. In the second case, producers depend on the availability of rain water, the hydrological cycle, and climate variability. 
 
-**[Table 6. Crops land and water use. ABOUT HERE]**
 
 <hr>
 
