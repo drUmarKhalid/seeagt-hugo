@@ -210,7 +210,7 @@ As illustrative as the supply of foods is in understanding food security topics,
 
 ## What do we know about water and energy use in this context?
 
-Food production requires that we ensure water availability during the various growth stages of crops. Table 6 shows the different requirements of land and water for crops. Among uses of water it is important to distinguish between irrigated and rainfed agriculture. In the first case, producers must make sure that there is enough available water of quality for crops to grow. In the second case, producers depend on the availability of rain water, the hydrological cycle, and climate variability. 
+Food production requires that we ensure water availability during the various growth stages of crops. Table 4 shows the different requirements of land and water for crops. Among uses of water it is important to distinguish between irrigated and rainfed agriculture. In the first case, producers must make sure that there is enough available water of quality for crops to grow. In the second case, producers depend on the availability of rain water, the hydrological cycle, and climate variability. 
 
 
 <hr>
@@ -240,13 +240,13 @@ Similarly, sugar cane has also a total water use of 4.8 million m<sup>3</sup>. T
 
 Other relevant uses of water correspond with palm oil tree production (2.9 million m<sup>3</sup>, 52% of which come from irrigation), coffee (2.6 million m<sup>3</sup>, all rainfed agriculture) and bananas (1.4 million m<sup>3</sup>, 63% of which comes from irrigation).
 
-Table 7 shows the use of energy of various sources in Guatemala. It is interesting that agricultural production, which does use a certain amount of gasoline and diesel, only represents about 1% of total energy use in the country.
+Table 5 shows the use of energy of various sources in Guatemala. It is interesting that agricultural production, which does use a certain amount of gasoline and diesel, only represents about 1% of total energy use in the country.
 
 It is more relevant to note that households use about 40% of the country's total energy use in the form of fuelwood. Judging by the 1% of total energy use that represent household gas or electricity use, it is implied that the main method of cooking in Guatemala is fuelwood.
  
 <hr>
 
-**_Table 4. Energy use (Terajoules)_**
+**_Table 5. Energy use (Terajoules)_**
 
 <table class="table table-striped">
 <thead><tr class="tableizer-firstrow"><th></th><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>(7)</th><th>(8)</th><th>(9)</th><th>(10)</th><th>(11)</th><th>Total</th></tr></thead><tbody>
@@ -314,17 +314,72 @@ _Figure 3. Total available calories_
 
 ## What do we know about the economics of it all?
 
-Table 9 shows the contribution of the different agricultural products to the Guatemalan economy in monetary terms for the year 2010. As we can see, the production of crops contributed around 9% of gross production, while cattle farming about 2%; the same as other agricultural products, forestry, and fisheries combined (2%). In total, all this production represents about 12% of the value added of the entire economy in that year.
+Table 6 shows the contribution of the different agricultural products to the Guatemalan economy in monetary terms for the year 2010. As we can see, the production of crops contributed around 9% of gross production, while cattle farming about 2%; the same as other agricultural products, forestry, and fisheries combined (2%). In total, all this production represents about 12% of the value added of the entire economy in that year.
 
-**[Table 9. Total supply in monetary terms. ABOUT HERE]**
+<hr>
 
-Table 10 shows the use of the same products in monetary terms. Households buy 59% of crops, 80% of other agricultural products, but only 19% of the production of cattle farming. For this last category, 80% is destined to intermediate consumption by other industries. As for fisheries, 42% of total output is bought by households, 37% becomes exports and 20% intermediate consumption.
+**_Table 6. Total supply in monetary terms (thousands of quetzales)_**
 
-**[Table 10. Total use in monetary terms. ABOUT HERE]**
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th></th><th>Output</th><th>Imports</th><th>Taxes less subsidies</th><th>Trade and transportation margins</th><th>Total</th></tr></thead><tbody>
+ <tr><td>Crops</td><td>32,836</td><td>3,907</td><td>273</td><td>24,129</td><td>61,145</td></tr>
+ <tr><td>Cattle farming products</td><td>8,278</td><td>105</td><td>0</td><td>2,123</td><td>10,507</td></tr>
+ <tr><td>Other agricultural products</td><td>3,652</td><td>32</td><td>20</td><td>1,254</td><td>4,958</td></tr>
+ <tr><td>Forestry</td><td>3,551</td><td>67</td><td>1</td><td>2,782</td><td>6,401</td></tr>
+ <tr><td>Fisheries</td><td>882</td><td>95</td><td>7</td><td>491</td><td>1,474</td></tr>
+ <tr><td>All other industries</td><td>485,865</td><td>116,612</td><td>20,571</td><td>-30,779</td><td>592,269</td></tr>
+ <tr><td>Total</td><td>535,063</td><td>120,819</td><td>20,872</td><td>0</td><td>676,754</td></tr>
+</tbody></table>
 
-We now turn to extended production and income accounts for agricultural industries and the rest of the economy. Table 11 shows "taxes less subsidies" which represents monetary flows to the government in the form of taxes; net operating surplus, which is equivalent to profits from all companies; mixed income which is a mixture of self compensation and returns to capital of small business owners; compensation of employees; and value added, which is the total wealth generated by all economic activities in the accounting period. 
+<small>Source: Iarna/Banguat (2010)</small>
+<hr>
 
-**[Table 11. Extended production accounts. ABOUT HERE]**
+Table 7 shows the use of the same products in monetary terms. Households buy 59% of crops, 80% of other agricultural products, but only 19% of the production of cattle farming. For this last category, 80% is destined to intermediate consumption by other industries. As for fisheries, 42% of total output is bought by households, 37% becomes exports and 20% intermediate consumption.
+
+<hr>
+
+**_Table 7. Total use in monetary terms (thousands of quetzales)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th></th><th>Intermediate consumption</th><th>Exports</th><th>Households</th><th>Stock variation</th><th>Total</th></tr></thead><tbody>
+ <tr><td>Crops</td><td>10,504</td><td>15,204</td><td>35,933</td><td>-495</td><td>61,145</td></tr>
+ <tr><td>Cattle farming products</td><td>8,367</td><td>19</td><td>2,008</td><td>114</td><td>10,507</td></tr>
+ <tr><td>Other agricultural products</td><td>947</td><td>51</td><td>3,960</td><td>-1</td><td>4,958</td></tr>
+ <tr><td>Forestry</td><td>1,408</td><td>2,060</td><td>2,864</td><td>69</td><td>6,401</td></tr>
+ <tr><td>Fisheries</td><td>299</td><td>544</td><td>624</td><td>6</td><td>1,474</td></tr>
+ <tr><td>All other industries</td><td>201,298</td><td>68,070</td><td>276,242</td><td>46,659</td><td>592,269</td></tr>
+ <tr><td>Total</td><td>222,823</td><td>85,948</td><td>321,631</td><td>46,352</td><td>676,754</td></tr>
+</tbody></table>
+
+<small>Source: Iarna/Banguat (2010)</small>
+<hr>
+
+We now turn to extended production and income accounts for agricultural industries and the rest of the economy. Table 8 shows "taxes less subsidies" which represents monetary flows to the government in the form of taxes; net operating surplus, which is equivalent to profits from all companies; mixed income which is a mixture of self compensation and returns to capital of small business owners; compensation of employees; and value added, which is the total wealth generated by all economic activities in the accounting period. 
+
+<hr>
+
+**_Table 8. Extended production accounts (thousands of quetzales)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th></th><th>Taxes less subsidies</th><th>Net operating surplus</th><th>Mixed income</th><th>Employee compensation</th><th>Value added</th><th>% of value added</th></tr></thead><tbody>
+ <tr><td>Growing of coffee</td><td>3.2</td><td>1,256.9</td><td>2,442.8</td><td>1,015.3</td><td>4,718.2</td><td>1.5</td></tr>
+ <tr><td>Growing of bananas</td><td>2.4</td><td>2,276.7</td><td>17.3</td><td>444.9</td><td>2,741.3</td><td>0.9</td></tr>
+ <tr><td>Growing of cardamum</td><td>5.5</td><td>615.6</td><td>1,119.6</td><td>193.9</td><td>1,934.6</td><td>0.6</td></tr>
+ <tr><td>Growing of cereals</td><td>22.2</td><td>187.3</td><td>2,096.2</td><td>494.3</td><td>2,799.9</td><td>0.9</td></tr>
+ <tr><td>Growing of roots and tubers</td><td>4.6</td><td>397.0</td><td>6,498.9</td><td>838.9</td><td>7,739.4</td><td>2.5</td></tr>
+ <tr><td>Growing of fruits and nuts</td><td>5.6</td><td>1,588.6</td><td>1,547.8</td><td>312.3</td><td>3,454.2</td><td>1.1</td></tr>
+ <tr><td>Other crops</td><td>13.4</td><td>1,727.6</td><td>646.8</td><td>677.8</td><td>3,065.7</td><td>1.0</td></tr>
+ <tr><td>Cattle farming</td><td>2.7</td><td>2,526.1</td><td>3,499.0</td><td>1,213.0</td><td>7,240.7</td><td>2.3</td></tr>
+ <tr><td>Forestry</td><td>9.0</td><td>228.7</td><td>1,469.6</td><td>296.6</td><td>2,004.0</td><td>0.6</td></tr>
+ <tr><td>Fisheries</td><td>6.2</td><td>441.8</td><td>113.5</td><td>77.2</td><td>638.7</td><td>0.2</td></tr>
+ <tr><td>Manufactures, mining</td><td>600.6</td><td>33,562.0</td><td>20,898.5</td><td>28,267.5</td><td>83,328.6</td><td>26.7</td></tr>
+ <tr><td>Utilities</td><td>30.5</td><td>5,268.6</td><td>0.1</td><td>1,437.4</td><td>6,736.7</td><td>2.2</td></tr>
+ <tr><td>Other economic industries and services</td><td>1,331.8</td><td>86,318.6</td><td>32,511.5</td><td>65,676.2</td><td>185,838.1</td><td>59.5</td></tr>
+ <tr><td>Total</td><td>2,037.7</td><td>136,395.4</td><td>72,861.6</td><td>100,945.4</td><td>312,240.1</td><td>100.0</td></tr>
+</tbody></table>
+
+<small>Source: Iarna/Banguat (2010)</small>
+<hr>
 
 ## Final thoughts
 
