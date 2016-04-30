@@ -44,7 +44,10 @@ Figure 2 shows an erratic behavior in the use of water with a steady growth of 2
 
 To answer this question, we first turn to the agricultural industries. In our analysis, we took into account the rain water that was used by crops in their different growth stages. This is called rainfed irrigation and we chose to include it because it reflects the real contribution of water to our economy in a better manner. Figure 4 shows the trend of the largest water using industries of Guatemala. As expected by the introduction above, rainfed agriculture is the largest of all water using industries, with a share of about 40% of total use. It is followed by manufactures, which used between 35% and 24% in the accounting years. 
 
-**[Figure 4. AD Shares of water use for selected industries.  ABOUT HERE]**
+<hr>
+<img src="/float/water/water-use_shares.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 3. Shares of water use for selected industries (percentages)_
+<hr>
 
 Electricity generated with hydraulic power gained importance in the accounting period, going from about 11% in 2001 to 15% of total water use in 2006. In contrast to the figures presented before, irrigated agriculture represented about 10% of national water use in 2006, and about of 25% of the water used by all agriculture in general (about 4.3 million m<sup>3</sup> in 2006). 
 
