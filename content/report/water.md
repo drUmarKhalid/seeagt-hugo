@@ -38,9 +38,7 @@ Another interesting indicator is that of water use per capita. This indicator li
 _Figure 2. National water use and population (million m<sup>3</sup> and thousands of inhabitants)_
 <hr>
 
-Figure 3 shows an erratic behavior in the use of water with a steady growth of 2.5% of the Guatemalan population. This suggest that population growth is a poor indicator of water use variation. If we don't take into account the processing of coffee, water increased at a rate of between 4% and 7% between 2001 and 2006, a trend which is likely to continue in the future.
-
-**[Figure 3. AD Population and water use yearly growth rates in percentages.  ABOUT HERE]**
+Figure 2 shows an erratic behavior in the use of water with a steady growth of 2.5% of the Guatemalan population. This suggest that population growth is a poor indicator of water use variation. If we don't take into account the processing of coffee, water increased at a rate of between 4% and 7% between 2001 and 2006, a trend which is likely to continue in the future.
 
 ## But, what do we know about the water use of other industries?
 
