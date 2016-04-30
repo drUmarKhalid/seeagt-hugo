@@ -26,7 +26,7 @@ We first turn to the use of water, which we can understand as either consumption
 
 <hr>
 <img src="/float/water/water-total_use.jpg" class="img-responsive" alt="Source: INE (2015)">
-_Figure 1. National water use with and without coffee processing (million m<sup>3</sup>_
+_Figure 1. National water use with and without coffee processing (million m<sup>3</sup>)_
 <hr>
 
 The coffee processing industry is one of the largest users of water in Guatemala. In fact, next to the production of corn, which is highly dispersed among small landowners, coffee is one of the crops that covers more surface area in the country. However, data from the National Coffee Producers Asociation (ANACAFE) show that coffee production, which reached close to 286 thousand metric tons in 2001, saw a 27% drop the following year, bouncing back in 2003, but stabilizing at a lower 204 metric tons for the remainder of the analysis period. Notwithstanding, if we remove the data corresponding to coffee from the series (which we can also see in figure 2), then the trend of water use by the remaining industries was of steady growth.
