@@ -33,7 +33,10 @@ The coffee processing industry is one of the largest users of water in Guatemala
 
 Another interesting indicator is that of water use per capita. This indicator links total water use to a population headcount for each year. Table 7 shows this indicator for our accounting years. It is evident that water use per capita reached its most significant number in 2006 with a total of 2,459 m<sup>3</sup> per inhabitant.
 
-**[Table 7. AD National water use, population and water use per capita ABOUT HERE]**
+<hr>
+<img src="/float/water/water-use_vs_population.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 2. National water use and population (million m<sup>3</sup> and thousands of inhabitants)_
+<hr>
 
 Figure 3 shows an erratic behavior in the use of water with a steady growth of 2.5% of the Guatemalan population. This suggest that population growth is a poor indicator of water use variation. If we don't take into account the processing of coffee, water increased at a rate of between 4% and 7% between 2001 and 2006, a trend which is likely to continue in the future.
 
