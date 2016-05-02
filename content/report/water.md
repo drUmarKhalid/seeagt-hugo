@@ -102,7 +102,9 @@ Manufacturing industries used around 8.7 million m<sup>3</sup> of water in 2003.
 **_Table 2. Largest water uses among manufacturing industries. (million m<sup>3</sup> and percentages)_**
 
 <table class="table table-striped">
-<thead><tr class="tableizer-firstrow"> <th>Industry</th><th>Volume</th><th>Percentage</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow">
+<small>
+ <th>Industry</th><th>Volume</th><th>Percentage</th></tr></thead><tbody>
  <tr><td>Coffee processing</td><td>7,591,184,950.80</td><td>86.86</td></tr>
  <tr><td>Food processing</td><td>687,756,805.01</td><td>7.87</td></tr>
  <tr><td>Sugar production</td><td>218,758,014.48</td><td>2.5</td></tr>
@@ -113,13 +115,13 @@ Manufacturing industries used around 8.7 million m<sup>3</sup> of water in 2003.
  <tr><td>Subtotal </td><td>8,624,380,482.43</td><td>98.56</td></tr>
  <tr><td>Other industries</td><td>115,569,084.74</td><td>1.44</td></tr>
  <tr><td>Total  </td><td>8,739,949,567.17</td><td>100</td></tr>
+</small>
 </tbody></table>
+
 
 <small>Source: Iarna/Banguat (2010)</small>
 
 <hr>
-
-
 
 ## What do we know about water uses of other industries and consumers?
 
@@ -127,7 +129,27 @@ It is important to point out that the third largest use of water in the country 
 
 On the other hand, water used to satisfy direct human needs represented around 3% of total extraction in the years 2001-2006. In 2003, total water used by households was estimated at 392.7 million m<sup>3</sup>. We made this calculation taking into account that water use varies from urban to rural areas, from administrative region to region in the country, and also given different kinds of access to water of households. Table 10 shows these results by department. A total of 59% of all household consumption of water happens in urban areas, and about a third of national household water is used in the department of Guatemala, where the capital city is located; the largest in the country.
 
-**[Table 10. AD Household water use by department; urban and rural areas. ABOUT HERE]**
+<hr>
+
+**_Table 3. Household water use for selected departments; urban and rural areas. (million m<sup>3</sup>)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"> <th>Department</th><th>Urban</th><th>Rural</th><th>Total</th></tr></thead><tbody>
+ <tr><td>Guatemala</td><td>120,877</td><td>13,035</td><td>133,912</td></tr>
+ <tr><td>Alta Verapaz</td><td>6,238</td><td>17,828</td><td>24,067</td></tr>
+ <tr><td>San Marcos</td><td>6,903</td><td>16,061</td><td>22,964</td></tr>
+ <tr><td>Quetzaltenango</td><td>13,727</td><td>7,178</td><td>20,905</td></tr>
+ <tr><td>Escuintla</td><td>9,542</td><td>8,784</td><td>18,326</td></tr>
+ <tr><td>Huehuetenango</td><td>6,351</td><td>10,660</td><td>17,012</td></tr>
+ <tr><td>Rest of departments</td><td>69,036</td><td>86,472</td><td>155,509</td></tr>
+ <tr><td>Total</td><td>232,674</td><td>160,018</td><td>392,695</td></tr>
+</tbody></table>
+
+
+<small>Source: Iarna/Banguat (2010)</small>
+
+<hr>
+
 
 ## How is this information different from what we already know from National Accounts and other sources?
 
@@ -135,7 +157,10 @@ In the System of National Accounts of Guatemala only water that is the subject o
 
 From our exercises already presented above we were able to compare and contrast the different volumes estimated by the System of National Accounts and water accounting. Figure 8 shows that upward of 98% of water is not registered by our usual economic performance measures. In 2006, this represented over 31 million m<sup>3</sup>. 
 
-**[Figure 8. AD Registered and Unregistered water in the System of National Accounts. ABOUT HERE]**
+<hr>
+<img src="/float/water/water-registered_unergistered.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 5. Water not recorded in the System of National Accounts_
+<hr>
 
 Furthermore, table 11 shows these differences for selected individual industries. For example, in agriculture over 80% of unregistered water corresponds to rainfed agriculture, but the grand majority of water for irrigation is also excluded from typical gross domestic product calculations. And even for households, which are the main clients of private and municipal water distribution systems, registered water only accounts for about 20% of their total use.
 
