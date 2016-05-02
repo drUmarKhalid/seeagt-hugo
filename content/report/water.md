@@ -193,5 +193,7 @@ We have described the importance of water for various production and consumption
 
 For most economic industries water use had a growing trend, with the exception of  coffee production&mdash;the largest individual user of water&mdash;. Due to external shocks in international coffee markets, there was a significant drop in production of this commodity, which in turn translated into a lower demand for water for the entire Guatemalan economy.
 
-In 2006, water use per capita reached a total of 2,459 m<sup>3</sup> per inhabitant. This hints at household water consumption, which interestingly was less than 1.5% of total water use in Guatemala in those years.
+In 2006, water use per capita reached a total of 2,459 m<sup>3</sup> per inhabitant. This is closely related to total household water consumption, which interestingly was less than 1.5% of total water use in Guatemala in that year.
+
+There is a difference between water use and water extraction. The latter implies a deliberate process of abstraction, while the former includes non-consumptive uses of water. About 56% of all water extraction can be attributed to manufacturing industries in 2006, with about 30% going to irrigated agriculture. All the remaining industries and households account for the remaining share of about 12%.
 
