@@ -55,25 +55,71 @@ Interestingly, households used less than 1.5% of total water use in Guatemala, a
 
 As we explained before, the total amount of water used above includes rain water. However, there is also the concept of water extraction, which corresponds to water from an underground or surface source, and at the same time represents a consumption or severe change in its quality. This implies that neither hydroelectricity production or rainfed agriculture fit this description.
 
-Figure 5 shows manufactures as the main extracting activities with a share of 62% of all extraction, which is estimated at 14,038 million m<sup>3</sup>. Another important industry in this sense is irrigated agriculture, which was responsible for about 27% of total extraction in 2003. Coffee processing followed with 54% of extracted water, and sugar cane growing with about 12%. Households represented less than 3% of total water extraction in Guatemala.
+Figure 5 shows manufactures as the main extracting activities with a share of 62% of all extraction in 2003, which is estimated at 14,038 million m<sup>3</sup>. Another important industry in this sense is irrigated agriculture, which was responsible for about 27% of total extraction in 2003. Coffee processing followed with 54% of extracted water, and sugar cane growing with about 12%. Households represented less than 3% of total water extraction in Guatemala.
 
-**[Figure 5. AD Water extraction of selected industries.  ABOUT HERE]**
+<hr>
+<img src="/float/water/water-extraction.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 4. Water extraction for selected industries (percentages)_
+<hr>
 
 ## Do we have information on agricultural uses of water?
 
-The amount of water used by different crops depends on the different requirements of each cycle of plant growth, total cultivated area, total area under irrigation, and irrigation methods used. Table 8 shows estimates for the most important crops in Guatemala. This group represented about 87% of total water used by agriculture and 75% of the demand of water for irrigation in 2003. In this sense, sugar cane production stands out with 43% of total irrigation.
+The amount of water used by different crops depends on the different requirements of each cycle of plant growth, total cultivated area, total area under irrigation, and irrigation methods used. Table 1 shows estimates for the most important crops in Guatemala. This group represented about 87% of total water used by agriculture and 75% of the demand of water for irrigation in 2003. In this sense, sugar cane production stands out with 43% of total irrigation.
 
-**[Table 8. AD Water used by the most important crops in Guatemala. ABOUT HERE]**
+<hr>
 
-Figure 6 shows the responsibility of different crops in the use of water, regardless of whether they are irrigated or not. It is evident that water is of extreme importance to food security (staple foods) and exports (sugar cane and coffee).
+**_Table 1. Water used by the most important crops in Guatemala. (million m<sup>3</sup> and percentages)_**
 
-**[Table 8. AD Water used by the most important crops in Guatemala. ABOUT HERE]**
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th>Crops</th><th>Rainfed agriculture</th><th>&nbsp;</th><th>Irrigated agriculture</th><th>&nbsp;</th></tr></thead><tbody>
+ <tr><td>&nbsp;</td><td>Volume</td><td>Percentage</td><td>Volume</td><td>Percentage</td></tr>
+ <tr><td>Banana</td><td>308,485,229</td><td>2.59</td><td>517,090,909</td><td>13.69</td></tr>
+ <tr><td>Coffee</td><td>2,541,335,533</td><td>21.35</td><td>0</td><td>0.00</td></tr>
+ <tr><td>Sugar cane</td><td>2,089,164,485</td><td>17.55</td><td>1,636,521,421</td><td>43.34</td></tr>
+ <tr><td>Cardamum</td><td>674,366,183</td><td>5.66</td><td>0</td><td>0.00</td></tr>
+ <tr><td>Beans</td><td>932,256,561</td><td>7.83</td><td>0</td><td>0.00</td></tr>
+ <tr><td>Maize</td><td>3,820,696,316</td><td>32.09</td><td>0</td><td>0.00</td></tr>
+ <tr><td>Mango</td><td>87,470,637</td><td>0.73</td><td>80,795,454</td><td>2.14</td></tr>
+ <tr><td>Melon</td><td>31,868,075</td><td>0.27</td><td>126,376,488</td><td>3.35</td></tr>
+ <tr><td>African palm oil tree</td><td>421,783,476</td><td>3.54</td><td>469,444,799</td><td>12.43</td></tr>
+ <tr><td>These crops</td><td>10,907,426,494</td><td>91.62</td><td>2,830,229,071</td><td>74.96</td></tr>
+ <tr><td>Other crops</td><td>997,502,349</td><td>8.38</td><td>945,661,520</td><td>25.04</td></tr>
+ <tr><td>Total Agriculture</td><td>11,904,928,843</td><td>100.00</td><td>3,775,890,591</td><td>100.00</td></tr>
+</tbody></table>
+
+<small>Source: Iarna/Banguat (2010)</small>
+
+<hr>
+
+Regardless of whether crops are irrigated or not, it is evident that water is of extreme importance to food security (staple foods) and exports (sugar cane and coffee).
 
 ## How about industrial uses of water?
 
 Manufacturing industries used around 8.7 million m<sup>3</sup> of water in 2003. Table 9 shows selected industries with the largest uses. Once again, coffee processing stands out with an 87% share of all water used by manufactures (about 7.6 million m<sup>3</sup>). Other important groups of manufacturing industries are food production and sugar production with around 8% and 2.5% of total water used by manufactures, respectively.
 
-**[Table 9. AD Largest water uses among manufacturing industries. ABOUT HERE]**
+<hr>
+
+**_Table 2. Largest water uses among manufacturing industries. (million m<sup>3</sup> and percentages)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"> <th>Industry</th><th>Volume</th><th>Percentage</th></tr></thead><tbody>
+ <tr><td>Coffee processing</td><td>7,591,184,950.80</td><td>86.86</td></tr>
+ <tr><td>Food processing</td><td>687,756,805.01</td><td>7.87</td></tr>
+ <tr><td>Sugar production</td><td>218,758,014.48</td><td>2.5</td></tr>
+ <tr><td>Mineral water production</td><td>76,060,252.40</td><td>0.87</td></tr>
+ <tr><td>Clothing</td><td>19,337,213.44</td><td>0.22</td></tr>
+ <tr><td>Other textiles</td><td>10,506,187.93</td><td>0.12</td></tr>
+ <tr><td>Meat processing</td><td>10,417,872.57</td><td>0.12</td></tr>
+ <tr><td>Subtotal </td><td>8,624,380,482.43</td><td>98.56</td></tr>
+ <tr><td>Other industries</td><td>115,569,084.74</td><td>1.44</td></tr>
+ <tr><td>Total  </td><td>8,739,949,567.17</td><td>100</td></tr>
+</tbody></table>
+
+<small>Source: Iarna/Banguat (2010)</small>
+
+<hr>
+
+
 
 ## What do we know about water uses of other industries and consumers?
 
