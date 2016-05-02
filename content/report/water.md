@@ -155,17 +155,37 @@ On the other hand, water used to satisfy direct human needs represented around 3
 
 In the System of National Accounts of Guatemala only water that is the subject of economic transactions is recorded, and given the institutional framework of water access in Guatemala, most water uses do not fit that category. Most rain water and water extracted from wells for own use in industry and some residential complexes is not the subject of payments between economic stakeholders, and so it is not recorded by the system of national accounts. There is however an exception, and that is the small fraction of water that is channeled through municipal or private distribution companies and which is charged to some connected households and small to medium enterprises.
 
-From our exercises already presented above we were able to compare and contrast the different volumes estimated by the System of National Accounts and water accounting. Figure 8 shows that upward of 98% of water is not registered by our usual economic performance measures. In 2006, this represented over 31 million m<sup>3</sup>. 
+From our exercises already presented above we were able to compare and contrast the different volumes estimated by the System of National Accounts and water accounting. Figure 8 shows that upward of 98% of water is not recorded by our usual economic performance measures. In 2006, this represented over 31 million m<sup>3</sup>. 
 
 <hr>
 <img src="/float/water/water-registered_unergistered.jpg" class="img-responsive" alt="Source: INE (2015)">
 _Figure 5. Water not recorded in the System of National Accounts_
 <hr>
 
-Furthermore, table 11 shows these differences for selected individual industries. For example, in agriculture over 80% of unregistered water corresponds to rainfed agriculture, but the grand majority of water for irrigation is also excluded from typical gross domestic product calculations. And even for households, which are the main clients of private and municipal water distribution systems, registered water only accounts for about 20% of their total use.
+Furthermore, table 11 shows these differences for selected individual industries. For example, in agriculture over 80% of unregistered water corresponds to rainfed agriculture, but the grand majority of water for irrigation is also excluded from typical gross domestic product calculations. And even for households, which are the main clients of private and municipal water distribution systems, recorded water only accounts for about 20% of their total use.
+
+<hr>
+
+**_Table 3. Water not recorded by SNA for selected industries (million m<sup>3</sup>)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th>Selected industries</th><th>Recorded by SNA</th><th>Not recorded by SNA</th></tr></thead><tbody>
+ <tr><td>Coffee production</td><td>37,120</td><td>2,541,335,533</td></tr>
+ <tr><td>Banana production</td><td>0</td><td>825,576,138</td></tr>
+ <tr><td>Cereals production</td><td>0</td><td>4,013,236,479</td></tr>
+ <tr><td>Production of other crops (including sugar cane)</td><td>736,978</td><td>3,944,990,546</td></tr>
+ <tr><td>Coffee processing industry</td><td>0</td><td>7,591,184,951</td></tr>
+ <tr><td>Food processing industry</td><td>1,344,646</td><td>687,756,805</td></tr>
+ <tr><td>Sugar production</td><td>1,758,014</td><td>217,000,000</td></tr>
+ <tr><td>Electricity generation</td><td>220,152</td><td>3,546,433,255</td></tr>
+ <tr><td>Households</td><td>62,175,931</td><td>330,560,455</td></tr>
+</tbody></table>
 
 
-**[Table 11. Registered and unregistered water for selected industries. ABOUT HERE}**
+<small>Source: Iarna/Banguat (2010)</small>
+
+<hr>
+
 
 ## Final thoughts
 
