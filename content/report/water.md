@@ -72,7 +72,7 @@ The amount of water used by different crops depends on the different requirement
 
 <table class="table table-striped">
 <thead><tr class="tableizer-firstrow"><th>Crops</th><th>Rainfed agriculture</th><th>&nbsp;</th><th>Irrigated agriculture</th><th>&nbsp;</th></tr></thead><tbody>
- <tr><td>&nbsp;</td><td>Volume</td><td>Percentage</td><td>Volume</td><td>Percentage</td></tr>
+ <thead><tr><th>&nbsp;</th><th>Volume</th><th>Percentage</th><th>Volume</th><th>Percentage</th></tr></thead>
  <tr><td>Banana</td><td>308,485,229</td><td>2.59</td><td>517,090,909</td><td>13.69</td></tr>
  <tr><td>Coffee</td><td>2,541,335,533</td><td>21.35</td><td>0</td><td>0.00</td></tr>
  <tr><td>Sugar cane</td><td>2,089,164,485</td><td>17.55</td><td>1,636,521,421</td><td>43.34</td></tr>
@@ -191,7 +191,7 @@ Furthermore, table 11 shows these differences for selected individual industries
 
 We have described the importance of water for various production and consumption processes in the economy using the framework of the System of Environmental and Economic Accounts.
 
-In the first section, we saw that the water use trend for most economic industries was growing, with the exception of  coffee production&mdash;the largest individual user of water&mdash;. Due to external shocks in the international coffee market, there was a significant drop in production of this commodity, which in turn translated into a lower demand for water.
+For most economic industries water use had a growing trend, with the exception of  coffee production&mdash;the largest individual user of water&mdash;. Due to external shocks in international coffee markets, there was a significant drop in production of this commodity, which in turn translated into a lower demand for water for the entire Guatemalan economy.
 
-In 2006, water use per capita reached a total of 2,459 m<sup>3</sup> per inhabitant. This leads us in the direction of household water consumption, which interestingly was less than 1.5% of total water use in Guatemala in that years.
+In 2006, water use per capita reached a total of 2,459 m<sup>3</sup> per inhabitant. This hints at household water consumption, which interestingly was less than 1.5% of total water use in Guatemala in those years.
 
