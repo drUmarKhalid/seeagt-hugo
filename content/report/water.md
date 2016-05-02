@@ -195,5 +195,9 @@ For most economic industries water use had a growing trend, with the exception o
 
 In 2006, water use per capita reached a total of 2,459 m<sup>3</sup> per inhabitant. This is closely related to total household water consumption, which interestingly was less than 1.5% of total water use in Guatemala in that year.
 
-There is a difference between water use and water extraction. The latter implies a deliberate process of abstraction, while the former includes non-consumptive uses of water. About 56% of all water extraction can be attributed to manufacturing industries in 2006, with about 30% going to irrigated agriculture. All the remaining industries and households account for the remaining share of about 12%.
+There is a difference between water use and water extraction. The latter implies an abstraction of water from the natural environment. About 56% of all water extraction can be attributed to manufacturing industries in 2006, with about 30% going to irrigated agriculture. All the other industries and services and households account for the remaining share of about 12%.
+
+It is interesting to note that coffee processing is by far the industry that uses the most water, with a share of about 86% of total water use. This knowledge is key for the design of better public policies regarding irrigation districts, and forest incentives in order to protect water sources and increase water provision.
+
+Regarding the effectiveness of SNA to capture interactions between the economy and the environment, our data show that upward of 98% of water is not recorded by our usual economic performance measures. In 2006, this represented over 31 million m3. Since macroeconomic performance measures are used by economic agents to make decisions, the oversight of such a large amount of water use might lead to unsustainable economic decisions and to supply shocks in the future.
 
