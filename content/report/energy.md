@@ -12,14 +12,12 @@ relatedmaterial: ""
 
 ## Energy, the environment, and the Guatemalan economy in a nutshell
 
-[**This text accompanies the Figure with the diagram.**]
 
-
-Nature provides the Guatemalan economy with coal, wind, hydraulic and geothermal power, fuelwood, sugar cane bagasse, and crude oil, among others. These are called "primary sources" of energy because they are usable in its natural form to some extent. We can take advantage of them locally or we can import them from the rest of the world. However, most of the economy's productive processes cannot take advantage of these sources in their raw form, and so they are transformed into what we call secondary sources of energy. Examples of this type of energy include the various types of gasolines and diesel fuel, liquefied petroleum gas, and electricity.
+Nature provides the Guatemalan economy with coal, wind, power derived from water and thermal sources, fuelwood, sugar cane bagasse, and crude oil, among others. These are called "primary sources" of energy because they are usable in their natural form to some extent. We can take advantage of them locally or we can import them from the rest of the world. However, most of the economy's productive processes cannot take advantage of these sources in their raw form, and so they are transformed into what we call secondary sources of energy. Examples of this type of energy include the various types of gasolines and diesel fuels, liquefied petroleum gas, and electricity.
 
 Different industries, or economic activities, use both primary and secondary energy sources as inputs in their production processes. Households, in turn, use them to satisfy domestic needs like cooking, powering of devices, heating or cooling, among others. One special industry uses large amounts of various types of primary and secondary sources to produce electricity, which is then used universally by everyone else in the economy.
 
-Finally, from the combustion, or simply burning, of some these energy products, industries emit various gases that go up into the atmosphere. Some of these are known as greenhouse gases and in our accounting efforts we have tracked carbon dioxide (CO<sub>2</sub>), nitrous oxide (N<sub>2</sub>O), and methane (CH<sub>4</sub>). 
+Finally, from the combustion&mdash;or simply burning&mdash;of some these energy products, industries emit various gases that go up into the atmosphere. Some of these are known as greenhouse gases and in our accounting efforts we have tracked carbon dioxide (CO<sub>2</sub>), nitrous oxide (N<sub>2</sub>O), and methane (CH<sub>4</sub>). 
 
 
 ## How does energy flow from the environment to the economy?
