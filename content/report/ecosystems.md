@@ -15,29 +15,6 @@ The Land and Ecosystems account is a framework that determines the current statu
 
 Eco-regions are relatively large portions of the local landscape that hold specific arrangements of natural resources and species with limits that are close to the original extension of those arrangements prior to human intervention. In Guatemala, there are 14 of these regions and two of them represent 71% of the country's area. These are Rainforests of Petén-Veracruz (44%) and Pine-Oak forests of Central América (27%).
 
-
-**Table 1. Eco-regions of Guatemala (percentage of country area)**
-<hr>
-
-| Eco-region							          	|    Area	|
-| :-------------------------------------------------|----------:|
-| Rainforests of Petén-Veracruz		 	 			|	44.2%	|
-| Pine-Oak Forests of Central America				| 	27.1%	|
-| Rainforests of the Central American Atlantic	  	|	7.2%    |
-| Dry Forests of Central America 					|	6.1%	|
-| Bosques montanos de Centroamérica 				|	5.5%	|
-| Rainforests of the Chiapas Sierra Madre			|	5.1%	|
-| Motagua Valley Arbustal Espinoso		 			|	2.2%	|
-| Tehuantepec-El Manchón Mangroves				  	|	0.8%	|
-| Dry Forest of the Chiapas Depression	 			|	0.8%	|
-| Belicean Cost Mangroves 							|	0.3%	|
-| Bosques montanos de Chiapas 						|	0.2%	|
-| Pacific Coast Dry North Mangroves 				|	0.2%	|
-| Rainforests of Yucatán 							|	0.1%	|
-| Northern Honduras Dry Mangroves					|	0.01%	|
-
-<hr>
-
 <!-- # Keep Spanish names for future revision
 
 | Eco-region							          	|    Area	|
@@ -57,10 +34,33 @@ Eco-regions are relatively large portions of the local landscape that hold speci
 | Bosques húmedos de Yucatán 						|	0.1%	|
 | Manglares secos del norte de Honduras 			|	0.01%	|
 
-
 -->
 
+<hr>
 
+**_Table 1. Eco-regions of Guatemala (percentage of country area)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th>Eco-region</th><th>Area</th></tr></thead><tbody>
+ <tr><td>Rainforests of Petén-Veracruz</td><td>44.20%</td></tr>
+ <tr><td>Pine-Oak Forests of Central America</td><td>27.10%</td></tr>
+ <tr><td>Rainforests of the Central American Atlantic</td><td>7.20%</td></tr>
+ <tr><td>Dry Forests of Central America</td><td>6.10%</td></tr>
+ <tr><td>Bosques montanos de Centroamérica</td><td>5.50%</td></tr>
+ <tr><td>Rainforests of the Chiapas Sierra Madre</td><td>5.10%</td></tr>
+ <tr><td>Motagua Valley Arbustal Espinoso</td><td>2.20%</td></tr>
+ <tr><td>Tehuantepec-El Manchón Mangroves</td><td>0.80%</td></tr>
+ <tr><td>Dry Forest of the Chiapas Depression</td><td>0.80%</td></tr>
+ <tr><td>Belicean Cost Mangroves</td><td>0.30%</td></tr>
+ <tr><td>Bosques montanos de Chiapas</td><td>0.20%</td></tr>
+ <tr><td>Pacific Coast Dry North Mangroves</td><td>0.20%</td></tr>
+ <tr><td>Rainforests of Yucatán</td><td>0.10%</td></tr>
+ <tr><td>Northern Honduras Dry Mangroves</td><td>0.01%</td></tr>
+</tbody></table>
+
+<small>Source: Iarna/Banguat (2010)</small>
+
+<hr>
 
 ## What can we say about the current status of land use in those regions?
 

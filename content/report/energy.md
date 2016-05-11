@@ -20,6 +20,7 @@ Different industries, or economic activities, use both primary and secondary ene
 Finally, from the combustion&mdash;or simply burning&mdash;of some these energy products, industries emit various gases that go up into the atmosphere. Some of these are known as greenhouse gases and in our accounting efforts we have tracked carbon dioxide (CO<sub>2</sub>), nitrous oxide (N<sub>2</sub>O), and methane (CH<sub>4</sub>). 
 
 
+
 ## How does energy flow from the environment to the economy?
 
 Between 2001 and 2006, the Guatemalan economy used several types of energy resources directly from the environment in order to satisfy both the needs of industries and households. Water's potential energy and thermal energy from volcanic activity were key resources in the production of electricity. The country also extracted crude oil and natural gas in some regions, which were destined almost exclusively for the export market. Guatemalans also imported coal from other countries mainly for the production of electricity. Nevertheless, in Guatemala the biggest source of energy obtained directly from the environment was biomass in the form of fuelwood for domestic use and sugarcane bagasse, mainly used as an input in the production of electricity.
