@@ -42,19 +42,19 @@ Additionally, table 10 shows the ten largest users of energy in 2006, excluding 
 
 [^10]: This is done for presentation purposes, given that fuelwood use dwarfs all other uses. Around 85% of fuelwood is used by households.
 
-## Notes on Greenhouse Gas Emissions
+## What happens with Greenhouse Gas Emissions?
 
-The total human contribution to greenhouse gas emissions from the combustion of different energy sources in Guatemala amounted to 45.6 million carbon dioxide metric tons equivalent in 2006. In general terms, that was less than 1% of total world emissions. Nevertheless, it could still carry financial consequences or opportunities regarding international treaties on the matter. Table 11 shows the distribution of emissions among groups of economic industries.
+The total human contribution to greenhouse gas emissions from the combustion of different energy sources in Guatemala amounted to 45.6 million carbon dioxide metric tons equivalent in 2006. In general terms, that was less than 1% of total world emissions. Nevertheless, since it is such an important topic in general terms, it could still carry financial consequences or opportunities regarding international treaties on the matter and we need to track its performance. Table 11 shows the distribution of emissions among groups of economic industries.
 
 **[Table 11, p.31 AD, Greenhouse Gas Emissions from energy combustion 2006]**
 
-If we narrow the focus on individual activities Figure 4, shows the greenhouse gas emissions of the top five emitting industries on the left of the vertical axis with bars and those of households on the right of the vertical axis with a line. Households emissions were considerably higher, due to the high carbon content of fuelwood and their large use of that product, coupled with their considerable use of gasoline.
+The figure below shows the greenhouse gas emissions of the top five emitting industries on the left of the vertical axis with bars and those of households on the right of the vertical axis with a line. Households emissions were considerably higher, due to the high carbon content of fuelwood and their large use of that product, coupled with their considerable use of gasoline.
 
-Among the top emitters, it is interesting to note that the emissions of the first economic industry on the bars (production and distribution of electricity) more than doubled those of its immediate follower. This was consistent with the high use of fossil fuels in the production of electricity.
+Among the top emitters, it is interesting to note that the emissions of the production and distribution of electricity more than doubled those of the industry that follows it. This was consistent with the high use of fossil fuels in the production of electricity.
 
 The second industry on the graph is the production of bread which is there because of its high use of fuelwood. In a GHG inventory (those advocated by the Inter Governmental Panel on Climate Change) emissions from biomass do not count toward the total emissions and are left as "memorandum items", this in order to avoid double counting. In the supply and use accounting structure of the SEEA, this is not a problem, and hence they were included. If fuelwood and bagasse were excluded, bakeries and mills would exit this list and cement production and retail trade would replace them. Finally, due to its high use of different fuels, the transportation industry was also important in this context.
 
-## Energy intensity
+## With what intensity is energy used by industries?
 
 Figure 5 shows an indicator called energy intensity for six economic industries for 2001-2006. Due to the nature of each type of economic activity, we can find these at different general levels of intensity. Some industries needed less energy to produce one unit of wealth added to the economy in that year (value added), like retail trade for example, and others, like cement production needed considerably more. For that reason it is not altogether adequate to compare intensities between industries. However, it is possible to compare how a specific industry fares through time. In that way, we can see if use of energy per unit of newly added wealth has improved or become worse.
 
@@ -62,11 +62,9 @@ Figure 5 shows an indicator called energy intensity for six economic industries 
 
 In the case of Guatemala, the production of bread showed a decrease in its intensity in the period. The production of ceramics showed a more erratic behavior, but mantained its high level of energy use, whereas transportation and general mills had a more stable energy intensity over time. This is probably due to the fact that technology is replaced less often in those activities.
 
+## How is energy supplied to the economy?
 
-
-## Energy supply
-
-Energy supply for Guatemala in the period 2001-2006 was divided into eleven groups of energy commodities, which in turn can be divided into primary and secondary energy sources. These are shown in Table 1, where the largest supply of energy corresponds to fuelwood in caloric terms (about 46% of all energy use). The supply of refined products from oil represented around 30%, which came mostly from imports. Coal was imported in its entirety. Primary sources were the largest component, with 73% of total supply in 2001 and 65% in 2006.
+We divide the energy supply for Guatemala into eleven groups of products, which in turn can be divided into primary and secondary energy sources. These are shown in Table 1, where the largest supply of energy corresponds to fuelwood in caloric terms (about 46% of all energy use). The supply of refined products from oil represented around 30%, which came mostly from imports. Coal was imported in its entirety. Primary sources were the largest component, with 73% of total supply in 2001 and 65% in 2006.
 
 **[Table 1, p.16, AD, Energy supply by energy commodity]**
 
@@ -78,9 +76,7 @@ In monetary terms, the importance between primary and secondary sources was reve
 
 **[Table 3, p.18, AD, Monetary supply]**
 
-
-
-## Energy use
+## How is energy used in Guatemala?
 
 Conceptually, energy use must be equal to its supply, and that means that the energy produced in the country must be used in its entirety by economic agents, either by industries, in final consumption, or as exports. The ability to disaggregate energy use by type of economic activity is one of the advantages of an energy account, because it allows us to track the economy's energetic performance, but also the energy consumption of its individual agents.
 
@@ -88,20 +84,19 @@ Guatemala consumed an average of 45,299.8 terajoules of energy in all its forms 
 
 **[Table 4, p.20, AD, Energy use in monetary terms]**
 
-During that time, the group of economic activities labelled as manufactures consumed an average of 20% of the available energy annually, while the single utility sector of the economy in charge of the production of electricity consumed also an average of 20% of energy of all types. The transportation sector, which is the largest user of diesel fuel in the country, became a distant fourth place in this list. Overall, exports as a use category decreased in relative terms from representing 11% of total energy use in 2001 to 7% in 2006.
+During that time, the group of economic activities labelled as manufactures consumed an average of 20% of the available energy annually, while the single utility sector of the economy in charge of the production of electricity consumed also an average of 20% of energy in all of its forms. The transportation sector, which is the largest user of diesel fuel in the country, became a distant fourth in this list. Overall, exports as a use category decreased in relative terms from representing 11% of total energy use in 2001 to 7% in 2006.
 
-In monetary terms, the use of energy has a different behavior (see table 5). For example, in contrast with their use in calorific terms, their use in monetary terms was of approximately 29% of total energy use between 2001 and 2006. This is largely due to the fact that their largest energy input comes in the form of fuelwood, which has a lower value per unit than other energy types, and a large share comes from self extraction, not purchases. 
+In monetary terms, the use of energy had a different behavior (see table 5). For example, in contrast with their use in calorific terms, their use in monetary terms was of approximately 29% of total energy use between 2001 and 2006. This is largely due to the fact that their largest energy input comes in the form of fuelwood, which has a lower value per unit than other energy types, and a large share comes from self extraction, not purchases. 
 
 **[Table 5, p.21, AD, Energy use in monetary terms]**
 
-The list of largest consumers of energy commodities in monetary terms is headed by manufactures with an average of 22% annual use of the total energy available, followed by wholesale and retail trade with 10%. It is also interesting that in monetary terms, exports become more important, with about 9% of anual use in the 2001-2006 period.
-
+The list of largest consumers of energy commodities in monetary terms is headed by manufactures with an average of 22% annual use of the total energy available, followed by wholesale and retail trade with 10%. It is also interesting that in monetary terms, exports become more important, with about 9% of annual use in the 2001-2006 period.
 
 ## Greenhouse Gas Emissions 
 
 Once we established the use of energy by the different economic activities of Guatemala, a further step allowed us to estimate the greenhouse gasses that were emitted to the atmosphere as a result of the combustion of energy products.
 
-Table 6 shows these emissions both in metric tons, as well as in a unit which makes nitrous oxide and methane emissions equivalent to those of carbon dioxide. Given the high carbon content in fuelwood and its generalized use in Guatemala, households top the list of emitters with a responsibility of about 60% of all emissions in carbon dioxide tons equivalent in 2006 (over a 20 year horizon). Economic industries labelled manufactures were responsible of about 18% and the group of Utilities, where the production and distribution of electricity is included, was responsible for close to 13% of total emissions in that same year.
+Table 6 shows these emissions both in metric tons, as well as in a unit which makes nitrous oxide and methane emissions equivalent to those of carbon dioxide. Given the high carbon content in fuelwood and its generalized use in Guatemala, households top the list of emitters with a responsibility of about 60% of all emissions in carbon dioxide tons equivalent in 2006 (over a 20 year horizon). Manufactures were responsible for about 18% and the group labeled Utilities, where the production and distribution of electricity is included, was responsible for close to 13% of total emissions in that same year.
 
 ## Energy Supply and Use tables
 
@@ -113,4 +108,4 @@ It was possible to construct for every year in the study a supply and use table 
 
 The information on flows allowed us to construct an indicator showing the intensity with which energy is used. This indicator measures how much energy is necessary to generate one unit of value added or newly generated wealth in that year. We saw some insights using this indicator in the discussion on energy intensity.
 
-We also computed the decoupling indicator, a measure that measures the gap between the growth rate of energy consumption and the growth rate of the economy. In an ideal situation, the economy would grow infinitely, while the consumption of energy would decrease over time. This would mean that the country would be so efficient with its resources that it could produce more each year with the same consumption of energy as in the previous year, or have the same production, but with less energy. On an aggregate basis, the Guatemalan economy showed a clear example of decoupling where the economy grew at a much more rapid pace than that of its energy demand.
+We also computed the decoupling indicator, a measure that measures the gap between the growth rate of energy consumption and the growth rate of the economy. In an ideal situation, the economy would grow steadily, while the consumption of energy would decrease over time. This would mean that the country would be so efficient with its resources that it could produce more each year with the same consumption of energy as in the previous year, or have the same production, but with less energy. On an aggregate basis, the Guatemalan economy showed a clear example of decoupling where the economy grew at a much more rapid pace than that of its energy demand.
