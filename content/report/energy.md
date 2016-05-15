@@ -110,3 +110,19 @@ It was possible to construct for every year in the study a supply and use table 
 The information on flows allowed us to construct an indicator showing the intensity with which energy is used. This indicator measures how much energy is necessary to generate one unit of value added or newly generated wealth in that year. We saw some insights using this indicator in the discussion on energy intensity.
 
 We also computed the decoupling indicator, a measure that measures the gap between the growth rate of energy consumption and the growth rate of the economy. In an ideal situation, the economy would grow steadily, while the consumption of energy would decrease over time. This would mean that the country would be so efficient with its resources that it could produce more each year with the same consumption of energy as in the previous year, or have the same production, but with less energy. On an aggregate basis, the Guatemalan economy showed a clear example of decoupling where the economy grew at a much more rapid pace than that of its energy demand.
+
+## Final remarks
+
+In this essay, we have introduced the Energy and Emissions Account of Guatemala. This account is a framework that allows us to understand the intricate relationship between the environment and the economy in terms of energy resources, and at the same time quantify the emissions that result from the combustion of the different types of energy.
+
+In the last year of the analysis, there was an energy consumption of 483,947 terajoules.
+
+Around 46% of all the energy consumed can be attributed to household final use, where fuelwood, gasoline, and electricity are predominant.
+
+The production of electricity used about 13% of all energy consumption, equivalent to 61,594 TJ. 
+
+Among the relevant players in the consumption of energy we found the production of bakery products (3.6% of total use), transportation (3.5%), grain milling (3.3%), cement production (2.6%), wholesale and retail trade (2.2%), restaurants and bars (1.1%), sugar milling (1%), and the production of soaps and detergents (1%).
+
+From the combustion of energy, a total of 45.6 million CO<sub>2</sub> tons equivalent were emitted to the atmosphere, of which the 5 largest emitters (excluding households) were responsible for 11.6 million CO<sub>2</sub> tons equivalent or 64%. Households emitted around 27.5 million CO<sub>2</sub> tons equivalent.
+
+In terms of intensity, a measure that compares energy use with value added generation, we have that the electricity generation industry requires 14.2 terajoules for every million quetzales (GTQ) that it contributes to GDP, which contrasts with the average for manufactures (2.9 TJ for every million GTQ), or trade activities that circle below 1 TJ for every million GTQ of value added.
