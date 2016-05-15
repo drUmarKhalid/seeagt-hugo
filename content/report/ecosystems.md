@@ -128,7 +128,11 @@ Three of these eco-regions had less than 20% forest cover and eight more than 50
 
 Out of 12 more representative regions, nine showed poor biophysical conditions of connectivity and minimum fragment size in order to guarantee their ecological integrity and the provision of natural goods and services.
 
-There is a need to ensure the conservation of the four
+There is a need to ensure the conservation of the four forest fragments, equivalent to 13% of Guatemala's total area, which show minimum values of ecological integrity. 
+
+It is imperative to begin restoration efforts in the rest of eco-regions; especially in the Pacific Basin, where land use change have diminished its ecological integrity to the minimum.
+
+
 
 
 
