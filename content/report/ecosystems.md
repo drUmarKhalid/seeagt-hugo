@@ -80,7 +80,7 @@ The area with more agricultural activity in detriment of the forest cover is the
 
 In addition to understanding the current forest cover of a territory, it is illustrative to see how the forest has degraded over a certain period. In order to achieve this, we compare and contrast maps of forest cover built from satellite images. These maps require the work of several technicians from several institutions working together, and for this reason these maps are only published every few years. At the time of this comparison, only maps from 1991 and 2003 were available.
 
-Guatemala lost 880,220 hectares of forest cover between 1991 and 2003, which represented a rate of deforestation of 17.3% for the entire period, relative to the forest cover in the first year. The main affected areas were the Rainforests of Petén-Veracruz with 540,215 hectares of forest cover lost, and the Pine-Oak Forests of Central America with 192,628 hectares. These regions accounted for 82% of all deforestation in those years. However, the Dry Forests of Central America region saw a most alarming rate of deforestation of 44%. At that pace, forest cover in that region could not last more than 20 years.
+Guatemala lost 880,220 hectares of forest cover between 1991 and 2003, which represented a rate of deforestation of 17.3% for the analysis years, relative to the forest cover in the first year. The main affected areas were the Rainforests of Petén-Veracruz with 540,215 hectares of forest cover lost, and the Pine-Oak Forests of Central America with 192,628 hectares. These regions accounted for 82% of all deforestation in those years. However, the Dry Forests of Central America region saw a most alarming rate of deforestation of 44%. At that pace, forest cover in that region could not last more than 20 years.
 
 <!--**[Figure 5. Evolution of forest cover between 1991 and 2003]**-->
 
@@ -90,7 +90,7 @@ Evaluating the health of an ecosystem is a difficult task given the complexities
 
 **Forest density** measures spatially the existence of forest cover in every square kilometer. The more dense a forest, the better its ecological integrity. The data showed that Guatemala's more dense forests--especially those with densities higher than 60%--, lost relevant portions of forest cover. The Gulf of Mexico Basin shows the most losses, with reductions of over 20%. Those area categories with no forest cover and those with densities lower than 40% showed increases of over 20%.
 
-**Forest fragmentation** measure the size of continuous blocks of forests and classifies them in 5 size categories. Between 1991 and 2001 four blocks of the larger categories (50,000 to 150,000 hectares) disapeared in the North of Guatemala, resulting in isolated areas of the 10,000 to 50,000 size category. In the South of the country, fragments were determined to be of the 0.5 to 2,000 hectare size predominantly.
+**Forest fragmentation** measure the size of continuous blocks of forests and classifies them in 5 size categories. Between 1991 and 2001 four blocks of the larger categories (50,000 to 150,000 hectares) disappeared in the North of Guatemala, resulting in isolated areas of the 10,000 to 50,000 size category. In the South of the country, fragments were determined to be of the 0.5 to 2,000 hectare size predominantly.
 
 **Ecological integrity** is a measure that we were able to infer from the two measures previously explained. This showed that nine out of fourteen eco-regions do not possess the minimum connectivity and fragment size required to guarantee the provision of environmental services.
 
@@ -117,5 +117,19 @@ We evaluated the loss of two environmental services in order to determine effect
 Deforestation in the various regions resulted in the loss of 15 million tons of soil in the form of erosion, equivalent to Q1,150 million (about $147.4 million). We obtained these numbers from the loss of macro-nutrients (nitrogen, phosphor, and potassium) in every ton of eroded soil, depending to its category. Regions with the most losses were Rainforests of Petén-Veracruz (Q.733.5 million or $94 million), and Pine-Oak Forests of Central America (Q.237.3 million or $30.4 million).
 
 As a consequence of the loss of forest cover, 368,622,243 tons of CO<sub>2</sub> were released into the atmosphere, with at total cost of Q.1,769.4 million (about $226.8 million) at international carbon market prices. Of these losses, 85% can be attributed to the loss of forest cover in the Rainforests of Petén-Veracruz and the Pine-Oak Forests of Central America.
+
+## Final remarks
+
+In this essay we reviewed the findings of the land and ecosystems account of Guatemala. This account is a framework that determines the current status of the different eco-regions of Guatemala in physical terms and quantifies the rate of their use through an analysis of land use change and its effects on forest cover.
+
+For analytical purposes, Guatemala was subdivided in 14 eco-regions. Five of these represent 90% of the entire area of the country, and the two largest are the Rainforests of Petén-Veracruz (44% of total area) and the Pine-Oak Forests of Central America (27%).
+
+Three of these eco-regions had less than 20% forest cover and eight more than 50%. A total of 880,220 hectares of forest cover hectares were lost between 1991 and 2003. From 1991 to 2003 a total of 25% of forest cover was lost to both annual and perennial crops.
+
+Out of 12 more representative regions, nine showed poor biophysical conditions of connectivity and minimum fragment size in order to guarantee their ecological integrity and the provision of natural goods and services.
+
+There is a need to ensure the conservation of the four
+
+
 
 
