@@ -1,7 +1,7 @@
 ---
 author: "Iarna-URL/Banguat"
 date: 2016-05-15T13:00:38-06:00
-description: ""
+description: "Tracking the economic causes of deforestation"
 epub: ""
 lead: "Forest accounting revealed that over 95% of deforestation happened outside of the control of government institutions and that the use of fuelwood has a higher impact on forests than previously thought."
 pdf: ""
