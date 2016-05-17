@@ -79,4 +79,10 @@ We have introduced the forest account of Guatemala; a framework that explains th
 
 * In 2006, Guatemala had 5,694,561 hectares of forest land, including natural forests, forest plantations, forest land, and shrubs. This is equivalent to 52.3% of the national territory and to 66.3% of total forests in 1950. 
 * When contrasting with population growth, available forest land in 2006 represented 0.43 hectares per inhabitant, a mere 16% of that same indicator in 1950.
-
+* Of the 4,015,749 hectares of natural forests in 2006, 55% are located inside protected areas. The rate of deforestation of these forests is of about 1.6% annually, which represents a net loss of 73,000 hectrares per year. Over 28,000 hectares were lost inside protected areas.
+* In 2006 the total forest volume was 695281.7 million m<sup>3</sup>, valued at GTQ83.5 billion at current prices.
+* Logging represented 29,168,397 m<sup>3</sup> and other losses 1,543.6 million m<sup>3</sup>. Of this last group, forest fires were the most important and represented a loss of 1.32 million m<sup>3</sup> in 2006.
+* The economy used a total of 33.6 million m<sup>3</sup> of forest products in 2006. A total of 67.3% of these flows were used by households, 9.36% were used for the production of furniture and other wood products, 7.63% by agricultural industries, 3.55% became exports and 4.05% was reused by the recycling industry.
+* Forest accounting estimates in 2006 place the flows of forest products at a value of GTQ14,980.4 million, of which 35.5% correspond to wood products, 7.81% to non-wood products, 0.15% to wild animals, and 0.07% to tourism services. The remaining 55.*% corresponds to the wood processing industries. Wood waste was valued at 0.21% of total wood flows. 
+* Of total forest product flows, 53% was used by final consumption, 35% was used as inputs by other industries, and 12% became exports.
+* Environmental protection expenditures for forests reached GTQ276.4 million, which is equivalent to only 12.82% of what is required to restore forests.
