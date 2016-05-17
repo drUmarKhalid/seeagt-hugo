@@ -40,5 +40,6 @@ If we contrast forest growth with reduction due to either controlled or uncontro
 
 <!-- Figure 5 Forest stock variation in monetary terms for the year 2006 (million GTQ) -->
 
+## How are forest products used in the economy?
 
-
+In terms of volume, households are the largest users of forest products, using 22.6 million m<sup>3</sup>, which represented about 67% of total national consumption. Most of that use (92%) corresponded to fuelwood use.
