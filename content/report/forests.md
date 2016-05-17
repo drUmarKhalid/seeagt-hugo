@@ -42,4 +42,41 @@ If we contrast forest growth with reduction due to either controlled or uncontro
 
 ## How are forest products used in the economy?
 
-In terms of volume, households are the largest users of forest products, using 22.6 million m<sup>3</sup>, which represented about 67% of total national consumption. Most of that use (92%) corresponded to fuelwood use.
+In terms of volume, households are the largest users of forest products, using 22.6 million m<sup>3</sup>, which represented about 67% of total national consumption. Most of that use (92%) corresponded to fuelwood use. The remainder is mostly used by the saw mill industry and the production of furniture. 
+
+<!-- Figure 6 Main users of forest goods in Guatemala in 2006 (percentages) -->  
+On the other hand we have total supply of forest products in monetary terms. Primary output contributes 34% of total supply of wood products, with a strong component of logging products and fuelwood. 
+
+Historically, non-wood products have contributed less to total supply and in 2006 they represented about a billion GTQ. In spite of the touted idea that non-wood products represent a high potential, in Guatemala this market is still small. 
+
+Secondary output, consisting of sawn wood and furniture is responsible for the largest numbers in total supply. In 2006, their value reached GTQ 8.2 billion, corresponding to a little over 40% of total supply of forest products. 
+
+<!-- Figure 7 Supply of forest products in 2006 (percentages) -->
+
+Demand of primary output of forest products (wood products, non-wood products, wild animals and their products) is linked to final household consumption. Intermediate consumption or that used as inputs by other industries, represents about 40%, and exports 12% of total use. These numbers are highly influenced by the use of fuelwood as a source of energy and by a small forest industry with little incidence in exports.
+
+<!-- Figure 8 Demand of forest products in 2006 (percentages of total use at purchaser prices) -->
+
+## What is the impact of depreciation of forests on economic measures?
+
+One important finding of the forest account is that the real contribution of forest products to the national economy circles around 3.15% and 2.57% for the years 2001 and 2006, respectively; while normal GDP measures attribute only contributions of 1.02% and 0.93% in the same years, respectively. 
+
+Another important finding is that the value of resource exhaustion (or its depreciation) is equivalent to 0.9% of GDP for the year 2006. What this implies is that if we take into account the forestry sector by itself, total contribution to the economy would be zero in practical terms.
+
+<!-- Figure 9 Contribution of forests to the economy in 2001 and 2006 (percentages) -->
+
+When adjusting GDP for the depreciation of forests, we see only a small reduction of about 1%, which is evidence of a small over-estimation of the true performance of the economy. This could be larger if unsustainable use of other natural resources were included in this calculation. 
+
+<!-- Figure 10 GDP adjusted for the depreciation of forests in 2001 and 2006 (percentages) -->
+
+When comparing the direct value of depreciation of forests with public investments which are destined to the protection and regeneration of forests it is evident that they are insufficient to cover the depreciation that we discussed earlier; i.e. the Budget of the National Institute of Forests&mdash;INAB&mdash;, including the National Forest Incentives Program, and the National Council for Protected Areas&mdash;CONAP&mdash;. Forest management expenditures (current and capital expenditure) represent only about 10% of the depreciation.
+
+<!-- Figure 11 Comparison between depreciation of forest resources and forest protection expenditure (percentages) -->
+
+## Final remarks
+
+We have introduced the forest account of Guatemala; a framework that explains the relationship between forests and the economy, bringing together information in order to reveal the real contribution of forests to the national economy and the possible impacts that the economy might have on the well-being of forests. Some of the most important findings include:
+
+* In 2006, Guatemala had 5,694,561 hectares of forest land, including natural forests, forest plantations, forest land, and shrubs. This is equivalent to 52.3% of the national territory and to 66.3% of total forests in 1950. 
+* When contrasting with population growth, available forest land in 2006 represented 0.43 hectares per inhabitant, a mere 16% of that same indicator in 1950.
+
