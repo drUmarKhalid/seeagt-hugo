@@ -49,9 +49,21 @@ Muds are an interesting residual, produced mainly by the chemical industry and t
 
 Mineral waste is mainly produced by manufactures as well; specifically, by the production of other non-metallic products. In 2006 a total 13.8 million tons of this waste were produced. Other mining industries also contributed to this total. In 2006 non-metallic waste reached 1.6 million tons, mainly due to rubber and plastic production among the group of manufactures. Interestingly, households contributed 0.5 million tons to this category and, also relevant, sugar milling contributed 0.4 million tones of stabilized waste.
 
+<!-- Figure 3. Solid waste output by type 2001-2006 (million metric tons) -->
+
 ## How is waste reused and what do we know about its management?
 
-The Guatemalan manufacturing industries are the largest re-users of the various types of waste. While reuse showed a general stable trend, towards the last year of analysis (2006) there was a relevant spike, reaching about 10 million tons. This number is 44% higher than that of 2001 and 36% higher than that of 2005.
+The Guatemalan manufacturing industries are the largest re-users of the various types of waste. While reuse showed a general stable trend, towards the last year of analysis (2006) there was a relevant spike, reaching about 10 million tons. This number is 44% higher than that of 2001 and 36% higher than that of 2005. The production of electricity is also important in the reuse of waste with about 6 million tons in its highest year&mdash;2004. A distant third, the industries related to agriculture fluctuate around a reuse of a million tons. Households and service industries reused waste at a much lower scale.
+
+<!-- Figure 4. Waste reuse by groups of industries 2001-2006 (tons) -->
+
+When we breakdown waste reuse by type, we see that vegetable and animal waste takes up the largest share of this total with 15.5 million tons, mainly attributed to the reuse of sugar cane bagass by the electricity production industry. Other important residuals are muds, manure, and stabilized residuals, which are used in their entirety by agriculture, forestry, and fisheries (0.8, 0.5, and 0.4 million tons, respectively).
+
+<!-- Table 1. Waste reuse by type of waste in 2006 (tons) -->
+
+
+
+
 
 
 
