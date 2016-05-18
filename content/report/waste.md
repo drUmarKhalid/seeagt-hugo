@@ -18,11 +18,11 @@ The environmental account for waste is a framework that describes in detail the 
 
 ## What do we know about waste production in Guatemala?
 
-One of the first findings when putting together this framework is that waste is a growning problem. Between 2001 and 2006, waste production grew over 70%, going from 81.9 million tons in 2001 to 113.8 million in 2006. Waste production by economic industries grew a total of 39.4% during those years, while that of households reached 12.4%. While economic growth is important, we have to acknowledge the increase in waste that that represents and define clear waste management strategies and market rules.
+One of the first findings when putting together this framework is that waste is a growning problem. Between 2001 and 2006, waste production grew over 70%, going from 81.9 million metric tons in 2001 to 113.8 million in 2006. Waste production by economic industries grew a total of 39.4% during those years, while that of households reached 12.4%. While economic growth is important, we have to acknowledge the increase in waste that that represents and define clear waste management strategies and market rules.
 
-<!-- Figure 1. Waste production trend in Guatemala 2001-2006 (million tons)-->
+<!-- Figure 1. Waste production trend in Guatemala 2001-2006 (million metric tons)-->
 
-It is interesting to note that the single industry with the most waste production is the manufacture of meat products which grew steadily between 2001 and 2004, with a slight decrease in 2005. Another relevant industry is the manufacture of chemical products, which tripled its waste production between 2001 and 2006, and in the case of the non-metallic mineral extraction industries we estimated an increase in waste from 10.1 million tons in 2001 to 13.8 million in 2006. Agriculture remained stable with 12.7 million tons in 2001 and 13.5 in 2006.
+It is interesting to note that the single industry with the most waste production is the manufacture of meat products which grew steadily between 2001 and 2004, with a slight decrease in 2005. Another relevant industry is the manufacture of chemical products, which tripled its waste production between 2001 and 2006, and in the case of the non-metallic mineral extraction industries we estimated an increase in waste from 10.1 million metric tons in 2001 to 13.8 million in 2006. Agriculture remained stable with 12.7 million metric tons in 2001 and 13.5 in 2006.
 
 ## What type of residuals are considered by the waste account?
 
@@ -41,27 +41,29 @@ Waste comes in a variety of forms, and because of this it is important that we u
 
 Some of the most important are summarized in the figure below.
 
-<!-- Figure 2. Solid waste output in Guatemala 2001-2006 (million metric tons) -->
+<!-- Figure 2. Solid waste output in Guatemala 2001-2006 (million metric metric tons) -->
 
-In Guatemala, the top producers of waste are manufactures (53.8 million tons), and agriculture (19.1 million tons). In the first case, the most relevant individual industries were the production of meat products, the production of canned and preserved fruits and legumes, sugar production, and the production of non-alcoholic beverages, while in the case of agriculture traditional and non-traditional crops were the most important.
+In Guatemala, the top producers of waste are manufactures (53.8 million metric tons), and agriculture (19.1 million metric tons). In the first case, the most relevant individual industries were the production of meat products, the production of canned and preserved fruits and legumes, sugar production, and the production of non-alcoholic beverages, while in the case of agriculture traditional and non-traditional crops were the most important.
 
-Muds are an interesting residual, produced mainly by the chemical industry and to a minimum extent by sugar milling. In 2006 this type of waste reached 22.5 million tons.
+Muds are an interesting residual, produced mainly by the chemical industry and to a minimum extent by sugar milling. In 2006 this type of waste reached 22.5 million metric tons.
 
-Mineral waste is mainly produced by manufactures as well; specifically, by the production of other non-metallic products. In 2006 a total 13.8 million tons of this waste were produced. Other mining industries also contributed to this total. In 2006 non-metallic waste reached 1.6 million tons, mainly due to rubber and plastic production among the group of manufactures. Interestingly, households contributed 0.5 million tons to this category and, also relevant, sugar milling contributed 0.4 million tones of stabilized waste.
+Mineral waste is mainly produced by manufactures as well; specifically, by the production of other non-metallic products. In 2006 a total 13.8 million metric tons of this waste were produced. Other mining industries also contributed to this total. In 2006 non-metallic waste reached 1.6 million metric tons, mainly due to rubber and plastic production among the group of manufactures. Interestingly, households contributed 0.5 million metric tons to this category and, also relevant, sugar milling contributed 0.4 million metric tones of stabilized waste.
 
-<!-- Figure 3. Solid waste output by type 2001-2006 (million metric tons) -->
+<!-- Figure 3. Solid waste output by type 2001-2006 (million metric metric tons) -->
 
 ## How is waste reused and what do we know about its management?
 
-The Guatemalan manufacturing industries are the largest re-users of the various types of waste. While reuse showed a general stable trend, towards the last year of analysis (2006) there was a relevant spike, reaching about 10 million tons. This number is 44% higher than that of 2001 and 36% higher than that of 2005. The production of electricity is also important in the reuse of waste with about 6 million tons in its highest year&mdash;2004. A distant third, the industries related to agriculture fluctuate around a reuse of a million tons. Households and service industries reused waste at a much lower scale.
+The Guatemalan manufacturing industries are the largest re-users of the various types of waste. While reuse showed a general stable trend, towards the last year of analysis (2006) there was a relevant spike, reaching about 10 million metric tons. This number is 44% higher than that of 2001 and 36% higher than that of 2005. The production of electricity is also important in the reuse of waste with about 6 million metric tons in its highest year&mdash;2004. A distant third, the industries related to agriculture fluctuate around a reuse of a million metric tons. Households and service industries reused waste at a much lower scale.
 
-<!-- Figure 4. Waste reuse by groups of industries 2001-2006 (tons) -->
+<!-- Figure 4. Waste reuse by groups of industries 2001-2006 (metric tons) -->
 
-When we breakdown waste reuse by type, we see that vegetable and animal waste takes up the largest share of this total with 15.5 million tons, mainly attributed to the reuse of sugar cane bagass by the electricity production industry. Other important residuals are muds, manure, and stabilized residuals, which are used in their entirety by agriculture, forestry, and fisheries (0.8, 0.5, and 0.4 million tons, respectively).
+When we breakdown waste reuse by type, we see that vegetable and animal waste takes up the largest share of this total with 15.5 million metric tons, mainly attributed to the reuse of sugar cane bagass by the electricity production industry. Other important residuals are muds, manure, and stabilized residuals, which are used in their entirety by agriculture, forestry, and fisheries (0.8, 0.5, and 0.4 million metric tons, respectively). In average, about 15% of waste is reused in Guatemala; in 2001 this value reached about 17%, with the lowest value being 14% in 2003.
 
-<!-- Table 1. Waste reuse by type of waste in 2006 (tons) -->
+<!-- Table 1. Waste reuse by type of waste in 2006 (metric tons) -->
 
+## So, how much waste goes straight to the environment?
 
+The difference between that which becomes waste, and the fraction that is reused goes straight to the environment. In the case of Guatemala, the largest flow of waste to the environment is vegetable and animal waste; about 58.3 million metric tons, or about 60% of total residuals. Manufactures contribute the most of these types of waste with about 44 million metric tons, followed by the group of agriculture, forestry, and fisheries with 19 million metric tons. Muds are second in importance, which represent about 22% of total waste disposal, and are the sole responsibility of industries.
 
 
 
