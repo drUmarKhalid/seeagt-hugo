@@ -65,6 +65,10 @@ When we breakdown waste reuse by type, we see that vegetable and animal waste ta
 
 The difference between that which becomes waste, and the fraction that is reused goes straight to the environment. In the case of Guatemala, the largest flow of waste to the environment is vegetable and animal waste; about 58.3 million metric tons, or about 60% of total residuals. Manufactures contribute the most of these types of waste with about 44 million metric tons, followed by the group of agriculture, forestry, and fisheries with 19 million metric tons. Muds are second in importance, which represent about 22% of total waste disposal, and are the sole responsibility of industries.
 
+Mineral waste represent 14% of total disposal, and is also a flow that comes from manufacturing industries (13.7 million metric tons). Finally, non-metallic waste is also relevant, with 1.6 million tons, but it only represents about 2% of total disposal, and it is contributed by manufactures and households.
+
+
+
 
 
 
