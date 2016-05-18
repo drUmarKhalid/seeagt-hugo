@@ -67,9 +67,10 @@ The difference between that which becomes waste, and the fraction that is reused
 
 <!-- Table 2. Total disposal by type of waste in 2006 (metric tons) -->
 
+## What's the situation of waste management?
 
+Among other things, waste management depends on the level of public expenditure allocated for it. In 2006, that value reached GTQ 1.4 billion, of which 56% comes from departmental governments, 33% from local municipalities, and 11% from the central government. In this last case, this type of expenditure represents only 0.4% of total environmental expenditure made by the central government, and for departmental and local governments 3% and 1%, respectively. Waste management reaches about 1.3% of total country environmental expenditure.
 
-
-
+<!-- Figure 8. Environmental expenditure destined to waste management (millions of GTQ and percentages)-->
 
 
