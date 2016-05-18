@@ -73,4 +73,7 @@ Among other things, waste management depends on the level of public expenditure 
 
 <!-- Figure 8. Environmental expenditure destined to waste management (millions of GTQ and percentages)-->
 
+## How intense is waste disposal relative to wealth generation?
+
+It is possible to evaluate the amount of waste generated for every monetary unit of value added (quetzales) contributed to GDP. In 2004 this intensity reached its highest point with 527 metric tons of waste per unit of value added, and by 2006 that number had dropped to 443 metric tons. This means that the pressure on the environment in terms of waste is relatively high.
 
