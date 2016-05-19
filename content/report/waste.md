@@ -87,5 +87,6 @@ In this essay, we introduced a framework for the analysis of waste disposal at a
 * The types of residuals with the highest levels of output were: vegetable and animal waste (63.9 million metric tons in average); muds (17.7 million metric tons); and mineral waste (12.5 million metric tons).
 * Some residuals were reused by the Guatemalan economy as inputs in production processes. In 2006, 17.1 million metric tons were reused. The food processing industry became the largest user of residuals (7.4 million metric tons or 51% of total use). The generation of electricity followed closely with 5 million tons, or about 34% of total use.
 * Vegetable and animal residuals were the most reused types of waste in the economy (15.5 million tons), mainly by manufactures and the production of electricity.
+* Total expenditure in waste management was close to GTQ18 million in 2006. Of this total, 56% came from departmental government (provinces), 33% from local government (municipalities), and 11% from central government; about 1.3% of total environmental expenditure of Guatemala.
 <!-- * Net disposal of waste to the environment was dominated by vegetal  -->
 
