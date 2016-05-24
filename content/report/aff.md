@@ -12,11 +12,11 @@ relatedmaterial:
     filetype: "pdf"
   -
     filename: "CuentaSAN.pptx"
-    short: "SEEA AFF presentation"
+    short: "SEEA AFF presentation (In Spanish)"
     filetype: "pptx"
   -
     filename: "aff.xlsx"
-    short: "SEEA AFF tables and figures"
+    short: "SEEA AFF tables and figures (In Spanish)"
     filetype: "xlsx"
 
 ---
