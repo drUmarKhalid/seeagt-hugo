@@ -16,7 +16,7 @@ relatedmaterial:
     filetype: "pptx"
   -
     filename: "aff.xlsx"
-    short: "SEEA AFF tables and figures (In Spanish)"
+    short: "SEEA AFF tables and figures"
     filetype: "xlsx"
 
 ---
