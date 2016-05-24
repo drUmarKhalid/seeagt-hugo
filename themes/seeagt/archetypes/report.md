@@ -7,5 +7,6 @@ author: ""
 lead: ""
 pdf: ""
 epub: ""
+relatedmaterial: ""
 
 ---
