@@ -53,6 +53,12 @@ When we analyze the above mentioned intermediate consumption, or the use of prod
 2. Industries related to construction, such as construction itself, cement production, prefabricated concrete products, and structural ceramic products. These industries used about 55 million metric tons, or about 42% of total intermediate consumption in the entire analysis period. 
 3. The production of electricity used about 4% of intermediate consumption.
 
+## How valuable are subsoil resources?
 
+We analyze the value of subsoil resources from the perspective of the valuation of their stocks. When comparing opening stocks, we see a 134 million metric tons reduction from 2001 to 2006, or about 4% of the total. The biggest reduction occurred in hydrocarbons. But the value of that stock might change because of market circumstances and it might fluctuate even if physical stocks remain the same. We see one such revaluation of Guatemala's stocks in the accounting period.
+
+In the case of hydrocarbons, for example, the opening stock valuation rose from 179,679 million quetzales (GTQ) in 2001 to GTQ&nbsp;491,336&nbsp;million, in spite of stock reductions and not attributable to inflation. This situation is explained by a rising trend in international oil prices. Non-metallic minerals, there was a relevant change in valuation from the opening stock of 2004, which was valued at GTQ&nbsp;23,477&nbsp;million, to the opening stock of 2006, valued at GTQ&nbsp;60,949&nbsp;million. A similar situation occurred with metallic minerals, but in a more discrete manner.
+
+<!-- Figure 6. Opening stock valuation (million metric tons and million GTQ)-->
 
 
