@@ -65,3 +65,17 @@ In the case of hydrocarbons, for example, the opening stock valuation rose from 
 
 In Guatemala, from 2001 to 2006 there was a flow of subsoil resources ranging between GTQ&nbsp;3,392 million and GTQ&nbsp;5,014&nbsp;million, at each year's prices. During the analysis years, industries related these resources increased their contribution to the Guatemalan economy by 90%, going from GTQ&nbsp;2,852&nbsp;million in 2001 to about GTQ&nbsp;5,427&nbsp;million in 2006. Full time equivalent jobs went from 64,236 to 87,025 annually in the same years. Over 40,000 of these jobs were generated in the non-metallic minerals extraction industry. In the case of exports, there is a clear jump from 2005 to 2006 due to the beginning of operations in gold mining from GTQ&nbsp;1,835&nbsp;million to GTQ2,768&nbsp;million. But from all subsoil resources, oil production represented 66% of the value of exports in 2006, while gold and silver represented 27% and 5%, respectively.
 
+All industries related to subsoil resources contributed between 1.94% and 2.34% of GDP annually in the analysis years. From these, the largest value corresponds to the extraction of non-metallick minerals, which averaged 1.05% of GDP. Oil extraction showed the most dynamic performance, going from 0.27% of GDP in 2001 to 0.65% in 2006; an annual average of 0.53% in all six years. The remaining industries represented about 0.20% of GDP annually. 
+
+<!-- Figure 7. Industries related to subsoil resources and their contribution to wealth (percentage of GDP)-->
+
+## Final thoughts
+
+In this essay we introduced environmental and economic accounting of subsoil resources as a framework that provides information on the availability of stocks of these resources and how they are used by the economy. Some interesting findings of this exercise reveal that:
+
+* Between 2001 and 2006 the extractive industries, both local as well as foreign, supplied an annual average of 50 million metric tons of hydrocarbons, metallic minerals and non-metallic minerals, of which, about 95% come from national companies and 5% from imports.
+* About an annual 44% of these resources were used as inputs in the production of other goods and services, while 34% became exports, 22% gross capital formation, and 1% went directly to households.
+* Oil refining represented about 47% of total physical use of natural resources in 2006, or 10 million metric tons, a jump from only about 8% the year before.
+* Owing to subsoil resources, about GTQ&nbsp;3,702.5&nbsp;million moved through the economy annually between 2001 and 2006. This represented between 1.94% and 2.34% of GDP.
+* Each job in the industries linked to subsoil resources generated about GTQ&nbsp;55,702 as contribution to Guatemalan wealth.
+
