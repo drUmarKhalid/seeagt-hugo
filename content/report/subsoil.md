@@ -31,6 +31,16 @@ Subsoil resources stocks vary negatively as a result from extraction and positiv
 
 <!-- Figure 2. Yearly opening stocks of subsoil resources (percentages 2001= 100%)-->
 
+The supply of subsoil resources is overwhelmingly dominated by hydrocarbons and non-metallic minerals in comparison with metallic minerals. In the case of hydrocarbons, total supply varied between 19,623 and 30,856 thousands of metric tons annually between 2001 and 2006. This was equivalent to 42% and 59% of total supply, respectively. Non-metallic minerals shows a similar performance. In some years, the supply of these minerals has surpassed that of hydrocarbons, reaching 50% of total subsoil resources supply. Physical supply of metallic minerals has been considerably lower to that of the other two groups. In our analysis years, its relative importance oscillated between 0.2% and 5.8% of total supply.
+
+<!-- Figure 3. Supply of subsoil resources (thousands of metric tons)-->
+
+Total supply has a locally produced component and an imported one. For hydrocarbons and non-metallic minerals the imported portion is not relevant. However, in the case of metallic minerals, imports reached as much as 78% of total supply in 2005 and 48% in the entire period. In contrast, hydrocarbons and non-metallic minerals imported 2% and 8% of total supply from 2001 to 2006, respectively.
+
+<!-- Figure 4. Output vs import of metallic minerals, 2001-2006 (thousands of metric tons)-->
+
+
+
 
 
 
