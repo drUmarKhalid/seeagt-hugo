@@ -3,7 +3,7 @@ author: ""
 date: 2016-05-24T10:21:49-06:00
 description: "Valuing what lies beneath the surface"
 epub: ""
-lead: ""
+lead: "The industries related to subsoil resources contributed between 1.94% and 2.34% of GDP annually in the analyzed years, specially owing to the non-metallic minerals extraction industry. Conversely, oil extraction was the largest use of these resources in physical terms."
 pdf: ""
 title: "Subsoil"
 relatedmaterial: ""
@@ -65,7 +65,7 @@ In the case of hydrocarbons, for example, the opening stock valuation rose from 
 
 In Guatemala, from 2001 to 2006 there was a flow of subsoil resources ranging between GTQ&nbsp;3,392 million and GTQ&nbsp;5,014&nbsp;million, at each year's prices. During the analysis years, industries related these resources increased their contribution to the Guatemalan economy by 90%, going from GTQ&nbsp;2,852&nbsp;million in 2001 to about GTQ&nbsp;5,427&nbsp;million in 2006. Full time equivalent jobs went from 64,236 to 87,025 annually in the same years. Over 40,000 of these jobs were generated in the non-metallic minerals extraction industry. In the case of exports, there is a clear jump from 2005 to 2006 due to the beginning of operations in gold mining from GTQ&nbsp;1,835&nbsp;million to GTQ2,768&nbsp;million. But from all subsoil resources, oil production represented 66% of the value of exports in 2006, while gold and silver represented 27% and 5%, respectively.
 
-All industries related to subsoil resources contributed between 1.94% and 2.34% of GDP annually in the analysis years. From these, the largest value corresponds to the extraction of non-metallick minerals, which averaged 1.05% of GDP. Oil extraction showed the most dynamic performance, going from 0.27% of GDP in 2001 to 0.65% in 2006; an annual average of 0.53% in all six years. The remaining industries represented about 0.20% of GDP annually. 
+All industries related to subsoil resources contributed between 1.94% and 2.34% of GDP annually in the analysis years. From these, the largest value corresponds to the extraction of non-metallic minerals, which averaged 1.05% of GDP. Oil extraction showed the most dynamic performance, going from 0.27% of GDP in 2001 to 0.65% in 2006; an annual average of 0.53% in all six years. The remaining industries represented about 0.20% of GDP annually. 
 
 <!-- Figure 7. Industries related to subsoil resources and their contribution to wealth (percentage of GDP)-->
 
