@@ -39,6 +39,21 @@ Total supply has a locally produced component and an imported one. For hydrocarb
 
 <!-- Figure 4. Output vs import of metallic minerals, 2001-2006 (thousands of metric tons)-->
 
+## Ok, that is supply, but how are subsoil resources used?
+
+Subsoil resources are mostly used as inputs in industrial processes, both from local companies, as well as from abroad. Households consumed between 217 and 354 thousands of metric tons annually in our analysis years. That was equivalent to less than 1% of total supply in any year. In contrast, their use as exports and as inputs in other industries, which we term "intermediate consumption", reached between 73% and 84% of total use in the analysis period.
+
+<!-- Figure 5. Subsoil resource use between 2001 and 2006 (thousands of metric tons)-->
+ 
+## And which industries use the most subsoil resources?
+
+When we analyze the above mentioned intermediate consumption, or the use of products as inputs in production processes of other industries, it is possible to dig deeper and disaggregate the industries that are the largest users of these resources. In the case of these products, there are six industries out of the 123 identified in the Guatemalan economy that represent 93% of total demand. The remaining industries used about 9 million metric tons of subsoil resources, or about 8% of total intermediate consumption. We group the most important six in three groups:
+
+a. Oil refinement, which process oil into different types of fuels. This group is responsible for 46% of total intermediate consumption in our analysis years, using about 61 million metric tons of hydrocarbons. 
+b. Industries related to construction, such as construction itself, cement production, prefabricated concrete products, and structural ceramic products. These industries used about 55 million metric tons, or about 42% of total intermediate consumption in the entire analysis period. 
+c. The production of electricity used about 4% of intermediate consumption.
+
+
 
 
 
