@@ -61,4 +61,7 @@ In the case of hydrocarbons, for example, the opening stock valuation rose from 
 
 <!-- Figure 6. Opening stock valuation (million metric tons and million GTQ)-->
 
+## What are the economic benefits of extracting subsoil resources?
+
+In Guatemala, from 2001 to 2006 there was a flow of subsoil resources ranging between GTQ&nbsp;3,392 million and GTQ&nbsp;5,014&nbsp;million, at each year's prices. During the analysis years, industries related these resources increased their contribution to the Guatemalan economy by 90%, going from GTQ&nbsp;2,852&nbsp;million in 2001 to about GTQ&nbsp;5,427&nbsp;million in 2006. Full time equivalent jobs went from 64,236 to 87,025 annually in the same years. Over 40,000 of these jobs were generated in the non-metallic minerals extraction industry. In the case of exports, there is a clear jump from 2005 to 2006 due to the beginning of operations in gold mining from GTQ&nbsp;1,835&nbsp;million to GTQ2,768&nbsp;million. But from all subsoil resources, oil production represented 66% of the value of exports in 2006, while gold and silver represented 27% and 5%, respectively.
 
