@@ -28,11 +28,9 @@ Fish production in Guatemala is of an extractive nature, according to the data. 
 <hr>
 <img src="/float/fisheries/fisheries-output.jpg" class="img-responsive" alt="Source: INE (2015)">
 _Figure 1. Total output from fisheries and aquaculture, 2001-2005 (metric tons)_
-<hr>
 
 <!-- Figure 2. Inter annual change in output from fisheries and aquaculture, 2002-2005 (rate of change) -->
 
-<hr>
 <img src="/float/fisheries/fisheries-output-chgrate.jpg" class="img-responsive" alt="Source: INE (2015)">
 _Figure 2. Inter annual change in output from fisheries and aquaculture, 2002-2005 (rate of change)_
 <hr>
@@ -42,6 +40,8 @@ _Figure 2. Inter annual change in output from fisheries and aquaculture, 2002-20
 Geographically, fishing takes place in the Pacific coast, the Atlantic coast, and continental waters. We term the first two "marine fishing." In terms of output, marine activities have been the most intense, mainly in the Pacific. As we saw earlier, there was a relevant drop, related to a drop in tuna extraction, which went from 23,528 metric tons in 2001 to 3,353 in 2005; an 85% drop. In turn, Atlantic coast fishing and continental fishing remained stable with annual extractions between 345 and 485 metric tons in the first case, and of 7,300 metric tons in the second case.
 
 <!-- Figure 3. Fisheries output by geographic area, 2001-2005 (metric tons) -->
+
+
 
 Pacific coast fishing is dominated by tuna fish and shrimp extraction to the point that these two species have reached 94% of all output in 2002. However, there have been other species that were captured as well. For example, from in 2004-05 there was a spike in the production of demersals, sharks, rays, and chimeras.
 
