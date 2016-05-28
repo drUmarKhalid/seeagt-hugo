@@ -71,4 +71,21 @@ Those animals that are caught alongside the target species are usually discarded
 
 <!-- Figure 10. Discards of marine fishing, 2001-2005 (metric tons) -->
 
+## Final thoughts and summary of findings
+
+In this essay we presented the fisheries and aquaculture account of Guatemala as a framework that provides information on the link between fish stocks, both cultivated and not cultivated, and the economy. It is interesting to note that:
+
+* From 441 hectare that were devoted to fish farming in Guatemala in 2003, 83% produced shrimp. The rest was used for fish farming of mainly tilapia (16.9%), and molluscs (0.1%).
+* In the years 2001-2005, between 90% and 98.5% of total marine captures were made in the Pacific, with the remainder in the Atlantic; 4,854 metric tons  were captured in the Pacific out of 5,340 metric tons captured in total.
+* However, total captures in the Pacific saw a relevant drop in the analysis period going from 26,460 metric tons in 2001 to 4,854 metric tons in 2005; an 82% reduction.
+* Tuna and shrimp are the main species captured in the Pacific. A total of 3,353 metric tons of tuna fish and 766 of shrimp were captured in 2005. 
+* The Atlantic represented about 9% of total captures in 2005; 487 metric tons.
+* Shrimp is the most relevant species in the Atlantic, with between 47% and 78% of total extraction in the analysis years.
+* Continental captures remained stable at about 7,300 metric tons annually between 2001 and 2005.
+* Aquaculture produced between 4,508 and 7,978 metric tons annually of mainly shrimp, tilapia and mojarra.
+* Total output from fisheries and aquaculture saw an important reduction from 39,220 metric tons in 2001 to 17,148 metric tons in 2005, owing specifically to the drop in production in the Pacific.
+* In the best year of the analysis period, these industries outputted  GTQ&nbsp;1,100&nbsp;million to the Guatemalan economy.
+* The value added from these industries was modest, contributing between GTQ&nbsp;288&nbsp;million in 2001 and GTQ&nbsp;418&nbsp;million in 2004 to GDP.
+* Regarding environmental impacts, marine captures were responsible for discards of between 3,762 and 9,425 metric tons annually between 2001 and 2005. This represents between 26 and 37 metric tons of discarded animals for every 100 metric tons of target species. The capture of shrimp and tuna were most relevant in this sense.
+
 
