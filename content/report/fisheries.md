@@ -1,12 +1,13 @@
 ---
-author: ""
-date: 2016-05-26T17:59:21-06:00
+title: Fisheries and aquaculture
 description: "Environmental and economic accounting for fisheries"
-epub: ""
 lead: "The total contribution of fish farming and aquaculture to GDP oscillated between 0.19% and 0.25% between 2001 and 2005, which is notably low in the Guatemalan economy."
+author: "IARNA-URL/BANGUAT"
+date: 2016-05-26T17:59:21-06:00
+epub: ""
 pdf: ""
 relatedmaterial: ""
-title: Fisheries and aquaculture
+
 ---
 
 ## What is environmental and economic accounting for fisheries?
@@ -23,6 +24,11 @@ The fisheries account of Guatemala is a framework that provides information on t
 Fish production in Guatemala is of an extractive nature, according to the data. In the accounting years, ocean and continental captures represented between 73% and 87% from the total supply of fish, leaving the remaining 13% to 27% to aquaculture, i.e. fish farming. The most relevant fluctuation happened in captures in the Pacific, which went from 26,459 metric tons in 2001 to 4,854 in 2005. There was an over all downward trend in output during the analysis years, with a significant drop in production to almost half from 2003 to 2004, with a slight recuperation in 2005 that is expected to continue.
 
 <!-- Figure 1. Total output from fisheries and aquaculture, 2001-2005 (metric tons) -->
+
+<hr>
+<img src="/float/fisheries/fisheries-output.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 1. Total output from fisheries and aquaculture, 2001-2005 (metric tons)_
+<hr>
 
 <!-- Figure 2. Inter annual change in output from fisheries and aquaculture, 2002-2005 (rate of change) -->
 
