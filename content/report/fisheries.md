@@ -61,13 +61,28 @@ In some Central American countries, like Belice and Honduras, aquaculture or fis
 
 <!-- Figure 5. Aquaculture by species, 2001-2005 (metric tons) -->
 
+<hr>
+<img src="/float/fisheries/fisheries-aquaculture-species.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 5. Aquaculture by species, 2001-2005 (metric tons)_
+<hr>
+
 Data reveals that fish farming occurs in most departments (largest administrative geographical area) of Guatemala. Nevertheless, it is in Escuintla that most surface area is devoted to this industry, with about 324 hectares, or 73% of the entire country's aquaculture land. Retalhuleu is also relevant with a share of 9%, and Jalapa and Suchitepéquez with 4% and 3%, respectively. The rest of the country takes up the remaining 11%.
 
 <!-- Figure 6. Surface area devoted to fish farming by department, 2003 (hectares) -->
 
+<hr>
+<img src="/float/fisheries/fisheries-bydepartment.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 6. Surface area devoted to fish farming by department, 2003 (hectares)_
+<hr>
+
 Shrimp is a product that is mainly produced in the departments adjacent to the Pacific coast. A relevant 99% of the surface area destined to this type of production concentrates in Escuintla, Retalhuleu, and Suchitepéquez. The remaining 1% is spread over the rest of the departments. Fish farming is more evenly distributed, with 33% of the surface in the East (Jalapa and Jutiapa), 29% in the South (Escuintla, Santa Rosa, and Suchitepéquez), 9% in Izabal to the Northeast, and 29% in the rest of departments.
 
 <!-- Figure 7. Distribution of surface area destined to shrimp and fish farming in Guatemala, 2003 (percentage) -->
+
+<hr>
+<img src="/float/fisheries/fisheries-area-byspecies.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 7. Distribution of surface area destined to shrimp and fish farming in Guatemala, 2003 (percentage)_
+<hr>
 
 ## What are the economic benefits of fish farming?
 
@@ -75,19 +90,39 @@ In monetary terms, fisheries and aquaculture contribution to the economy had a d
 
 <!-- Figure 8. Total output from fisheries and aquaculture (metric tons and thousands of quetzales&mdash;GTQ) -->
 
+<hr>
+<img src="/float/fisheries/fisheries-money-vs-volume.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 8. Total output from fisheries and aquaculture (metric tons and thousands of quetzales&mdash;GTQ)_
+<hr>
+
 The total contribution of fish farming and aquaculture to GDP oscillated between 0.19% and 0.25% between 2001 and 2005, which is notably low in the Guatemalan economy. The industries linked to fisheries and aquaculture generated value added in the order of GTQ&nbsp;289&nbsp;million in 2001 and GTQ&nbsp;418&nbsp;million in 2004.
 
 <!-- Figure 9. Value added and contribution to GDP from fisheries and aquaculture, 2001-2005 (percentages) -->
+
+<hr>
+<img src="/float/fisheries/fisheries-gdpshare.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 9. Value added and contribution to GDP from fisheries and aquaculture, 2001-2005 (percentages)_
+<hr>
 
 In terms of use of products from these industries, evidently households took up the largest share, which represented 54% in 2005. Exports were responsible for 22% of total use, and the food processing industries used 17% as inputs for their production. The remaining 7% became stock variation.
 
 <!-- Figure 10. Use of products from fisheries and aquaculture, 2005 (percentages) -->
 
+<hr>
+<img src="/float/fisheries/fisheries-useshares.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 10. Use of products from fisheries and aquaculture, 2005 (percentages)_
+<hr>
+
 ## What impacts do these industries cause?
 
 Those animals that are caught alongside the target species are usually discarded back into the oceans. This is added to the fraction of the target species that is also discarded for economic or other reasons. The volume of discarded material depends in the different fishing gears. In the case of Guatemala, shrimp and tuna captures were responsible for between 3,387 and 8,924 metric tons of discards in the years 2001-2005. Of the total discarded volume, these values represented between 79% and 95% in the analysis years.
 
-<!-- Figure 10. Discards of marine fishing, 2001-2005 (metric tons) -->
+<!-- Figure 11. Discards of marine fishing, 2001-2005 (metric tons) -->
+
+<hr>
+<img src="/float/fisheries/fisheries-discards.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 11. Discards of marine fishing, 2001-2005 (metric tons)_
+<hr>
 
 ## Final thoughts and summary of findings
 
