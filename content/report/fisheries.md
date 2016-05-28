@@ -3,10 +3,10 @@ author: ""
 date: 2016-05-26T17:59:21-06:00
 description: "Environmental and economic accounting for fisheries"
 epub: ""
-lead: ""
+lead: "The total contribution of fish farming and aquaculture to GDP oscillated between 0.19% and 0.25% between 2001 and 2005, which is notably low in the Guatemalan economy."
 pdf: ""
 relatedmaterial: ""
-title: fisheries
+title: Fisheries and aquaculture
 ---
 
 ## What is environmental and economic accounting for fisheries?
@@ -57,7 +57,7 @@ In monetary terms, fisheries and aquaculture contribution to the economy had a d
 
 <!-- Figure 8. Total output from fisheries and aquaculture (metric tons and thousands of quetzales&mdash;GTQ) -->
 
-The total contribution to fish farming and aquaculture to GDP oscillated between 0.19% and 0.25% between 2001 and 2005, which is notably low in the Guatemalan economy. The industries linked to fisheries and aquaculture generated value added in the order of GTQ&nbsp;289&nbsp;million in 2001 and GTQ&nbsp;418&nbsp;million in 2004.
+The total contribution of fish farming and aquaculture to GDP oscillated between 0.19% and 0.25% between 2001 and 2005, which is notably low in the Guatemalan economy. The industries linked to fisheries and aquaculture generated value added in the order of GTQ&nbsp;289&nbsp;million in 2001 and GTQ&nbsp;418&nbsp;million in 2004.
 
 <!-- Figure 9. Value added and contribution to GDP from fisheries and aquaculture, 2001-2005 (percentages) -->
 
