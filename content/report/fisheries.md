@@ -50,6 +50,11 @@ Pacific coast fishing is dominated by tuna fish and shrimp extraction to the poi
 
 <!-- Figure 4. Captures in the Pacific coast by species, 2001-2005 (percentage from total production) -->
 
+<hr>
+<img src="/float/fisheries/fisheries-pacific-species.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 4. Captures in the Pacific coast by species, 2001-2005 (percentage from total production)_
+<hr>
+
 ## What about aquaculture?
 
 In some Central American countries, like Belice and Honduras, aquaculture or fish farming represents upwards of 80% of the entire fish output. This is not the case in Guatemala, where fish farming contributed between 13% and 27% of annual output in the years 2001-2005. From this industry, fresh water shrimp (between 49% and 87% of their output) and tilapias (between 13% and 47% of total output) were most relevant. 
