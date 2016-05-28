@@ -32,6 +32,10 @@ _Figure 1. Total output from fisheries and aquaculture, 2001-2005 (metric tons)_
 
 <!-- Figure 2. Inter annual change in output from fisheries and aquaculture, 2002-2005 (rate of change) -->
 
+<hr>
+<img src="/float/fisheries/fisheries-output-chgrate.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 2. Inter annual change in output from fisheries and aquaculture, 2002-2005 (rate of change)_
+<hr>
 
 ## What happens with fishing?
 
