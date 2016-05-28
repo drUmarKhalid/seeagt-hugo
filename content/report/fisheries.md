@@ -41,7 +41,10 @@ Geographically, fishing takes place in the Pacific coast, the Atlantic coast, an
 
 <!-- Figure 3. Fisheries output by geographic area, 2001-2005 (metric tons) -->
 
-
+<hr>
+<img src="/float/fisheries/fisheries-geography.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 3. Fisheries output by geographic area, 2001-2005 (metric tons)_
+<hr>
 
 Pacific coast fishing is dominated by tuna fish and shrimp extraction to the point that these two species have reached 94% of all output in 2002. However, there have been other species that were captured as well. For example, from in 2004-05 there was a spike in the production of demersals, sharks, rays, and chimeras.
 
