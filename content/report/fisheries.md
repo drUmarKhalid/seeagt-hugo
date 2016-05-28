@@ -71,3 +71,4 @@ Those animals that are caught alongside the target species are usually discarded
 
 <!-- Figure 10. Discards of marine fishing, 2001-2005 (metric tons) -->
 
+
