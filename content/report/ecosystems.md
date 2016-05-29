@@ -115,7 +115,7 @@ The eco-regions with less than 10% forest cover showed the most ecological integ
 <!--**[Figure 6. Evolution of forest fragments between 1991 and 2001]**-->
 
 <hr>
-<a href="/float/ecosystems/ecosystems-map-fragments.jpg" target="_blank" title="Click to enlarge"><img src="/float/ecosystems/ecosystems-map-fragments.jpg" class="img-responsive" alt="Source: INE (2015)"></a>
+<a href="/float/ecosystems/ecosystems-map-fragments.jpg" target="_blank" title="Click to enlarge"><img src="/float/ecosystems/ecosystems-map-fragments-small.jpg" class="img-responsive" alt="Source: INE (2015)"></a>
 _Figure 6. Evolution of forest fragments between 1991 and 2001 (click to enlarge)_
 <hr>
 
@@ -126,7 +126,7 @@ There were, however, three regions with fragments large enough to guarantee a mi
 <!--**[Figure 7. Forest fragments with ecological integrity (2003)]**-->
 
 <hr>
-<a href="/float/ecosystems/ecosystems-map-integrity.jpg" target="_blank" title="Click to enlarge"><img src="/float/ecosystems/ecosystems-map-integrity.jpg" class="img-responsive" alt="Source: INE (2015)"></a>
+<a href="/float/ecosystems/ecosystems-map-integrity.jpg" target="_blank" title="Click to enlarge"><img src="/float/ecosystems/ecosystems-map-integrity-small.jpg" class="img-responsive" alt="Source: INE (2015)"></a>
 _Figure 7. Forest fragments with ecological integrity (2003)_
 <hr>
 
