@@ -1,11 +1,11 @@
 ---
+title: Waste
+description: "Waste accounting in Guatemala"
+lead: "Between 2001 and 2006, the Guatemalan economy generated an average of 97.5 million metric tons of solid waste annually. Of this total, 98% came from the production of goods and services, and only about 2% from households."
 author: "Iarna-URL/BANGUAT"
 date: 2016-05-18T11:00:06-06:00
-description: "Waste accounting in Guatemala"
-epub: ""
-lead: ""
 pdf: ""
-title: Waste
+
 ---
 
 ## What is an environmental account for waste?
@@ -22,6 +22,11 @@ One of the first findings when putting together this framework is that waste is 
 
 <!-- Figure 1. Waste production trend in Guatemala 2001-2006 (million metric tons)-->
 
+<hr>
+<img src="/float/waste/waste-trend.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 1. Waste production trend in Guatemala 2001-2006 (million metric tons)_
+<hr>
+
 It is interesting to note that the single industry with the most waste production is the manufacture of meat products which grew steadily between 2001 and 2004, with a slight decrease in 2005. Another relevant industry is the manufacture of chemical products, which tripled its waste production between 2001 and 2006, and in the case of the non-metallic mineral extraction industries we estimated an increase in waste from 10.1 million metric tons in 2001 to 13.8 million in 2006. Agriculture remained stable with 12.7 million metric tons in 2001 and 13.5 in 2006.
 
 ## What type of residuals are considered by the waste account?
@@ -29,6 +34,7 @@ It is interesting to note that the single industry with the most waste productio
 Waste comes in a variety of forms, and because of this it is important that we use a consistent classification that allows us to compare and monitor over time. The waste account provides estimates for:
 
 * Biological-infectious waste.
+* Metallic waste.
 * Non-metallic waste.
 * Discarded equipment.
 * Manure.
@@ -39,17 +45,25 @@ Waste comes in a variety of forms, and because of this it is important that we u
 * Stabilized residuals.
 * Other residuals.
 
-Some of the most important are summarized in the figure below.
+In Guatemala, the top producers of waste are manufactures (53.8 million metric tons), and agriculture (19.1 million metric tons). In the first case, the most relevant individual industries were the production of meat products, the production of canned and preserved fruits and legumes, sugar milling, and the production of non-alcoholic beverages, while in the case of agriculture traditional and non-traditional crops were the most important. Some of the most important levels of solid waste output are summarized by selected industries below:
 
 <!-- Figure 2. Solid waste output in Guatemala 2001-2006 (million metric metric tons) -->
 
-In Guatemala, the top producers of waste are manufactures (53.8 million metric tons), and agriculture (19.1 million metric tons). In the first case, the most relevant individual industries were the production of meat products, the production of canned and preserved fruits and legumes, sugar production, and the production of non-alcoholic beverages, while in the case of agriculture traditional and non-traditional crops were the most important.
+<hr>
+<img src="/float/waste/waste-solid-output.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 2. Solid waste output in Guatemala 2001-2006 (million metric metric tons)_
+<hr>
 
 Muds are an interesting residual, produced mainly by the chemical industry and to a minimum extent by sugar milling. In 2006 this type of waste reached 22.5 million metric tons.
 
 Mineral waste is mainly produced by manufactures as well; specifically, by the production of other non-metallic products. In 2006 a total 13.8 million metric tons of this waste were produced. Other mining industries also contributed to this total. In 2006 non-metallic waste reached 1.6 million metric tons, mainly due to rubber and plastic production among the group of manufactures. Interestingly, households contributed 0.5 million metric tons to this category and, also relevant, sugar milling contributed 0.4 million metric tones of stabilized waste.
 
-<!-- Figure 3. Solid waste output by type 2001-2006 (million metric metric tons) -->
+<!-- Figure 3. Solid waste output by selected types 2001-2006 (million metric metric tons) -->
+
+<hr>
+<img src="/float/waste/waste-bytype-selected.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 3. Solid waste output by selected types 2001-2006 (million metric metric tons)_
+<hr>
 
 ## How is waste reused and what do we know about its management?
 
@@ -57,9 +71,34 @@ The Guatemalan manufacturing industries are the largest re-users of the various 
 
 <!-- Figure 4. Waste reuse by groups of industries 2001-2006 (metric tons) -->
 
+<hr>
+<img src="/float/waste/waste-reuse.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 4. Waste reuse by groups of industries 2001-2006 (metric tons)_
+<hr>
+
 When we breakdown waste reuse by type, we see that vegetable and animal waste takes up the largest share of this total with 15.5 million metric tons, mainly attributed to the reuse of sugar cane bagass by the electricity production industry. Other important residuals are muds, manure, and stabilized residuals, which are used in their entirety by agriculture, forestry, and fisheries (0.8, 0.5, and 0.4 million metric tons, respectively). In average, about 15% of waste is reused in Guatemala; in 2001 this value reached about 17%, with the lowest value being 14% in 2003.
 
 <!-- Table 1. Waste reuse by type of waste in 2006 (metric tons) -->
+
+<hr>
+
+**_Table 1. Waste reuse by type of waste in 2006 (metric tons)_**
+
+<table class="table table-striped">
+<thead><tr class="tableizer-firstrow"><th></th><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>Total</th></tr></thead><tbody>
+ <tr><td>Biological-infectious waste</td><td> -   </td><td> -   </td><td> -   </td><td> -   </td><td> 4,041.4 </td><td> -   </td><td> 4,041.4 </td></tr>
+ <tr><td>Discarded equipment</td><td> -   </td><td> 5,443.1 </td><td> -   </td><td> -   </td><td> -   </td><td> -   </td><td> 5,443.1 </td></tr>
+ <tr><td>Stabilized residuals</td><td> 413,581.3 </td><td> -   </td><td> -   </td><td> -   </td><td> -   </td><td> -   </td><td> 413,581.3 </td></tr>
+ <tr><td>Manure</td><td> 463,433.0 </td><td> -   </td><td> -   </td><td> -   </td><td> -   </td><td> -   </td><td> 463,433.0 </td></tr>
+ <tr><td>Muds</td><td> 827,162.6 </td><td> -   </td><td> -   </td><td> -   </td><td> -   </td><td> -   </td><td> 827,162.6 </td></tr>
+ <tr><td>Vegetable and animal waste</td><td> -   </td><td> 9,974,261.4 </td><td> 5,436,292.9 </td><td> 19,659.2 </td><td> -   </td><td> 26,803.5 </td><td> 15,457,017.0 </td></tr>
+ <tr><td>Total </td><td> 1,704,176.9 </td><td> 9,979,704.5 </td><td> 5,436,292.9 </td><td> 19,659.2 </td><td> 4,041.4 </td><td> 26,803.5 </td><td> 17,170,678.5</td></tr>
+</tbody></table>
+
+<small> "(1) Agriculture, forestry, and fisheries; (2) Manufactures; (3) Electricity; (4) Wholesale and retail trade; (5) Real estate, businesses; (6) Households and other final consumption.</small>
+
+<small>Source: Iarna/Banguat (2009)</small>
+<hr>
 
 ## So, how much waste goes straight to the environment?
 
@@ -73,9 +112,21 @@ Among other things, waste management depends on the level of public expenditure 
 
 <!-- Figure 8. Environmental expenditure destined to waste management (millions of GTQ and percentages)-->
 
+<hr>
+<img src="/float/waste/waste-expenditure.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 8. Environmental expenditure destined to waste management (millions of GTQ and percentages)_
+<hr>
+
 ## How intense is waste disposal relative to wealth generation?
 
 It is possible to evaluate the amount of waste generated for every monetary unit of value added (quetzales) contributed to GDP. In 2004 this intensity reached its highest point with 527 metric tons of waste per unit of value added, and by 2006 that number had dropped to 443 metric tons. This means that the pressure on the environment in terms of waste is relatively high.
+
+<!-- Figure 9. Waste intensity, 2001-2006 (waste output / value added)-->
+
+<hr>
+<img src="/float/waste/waste-intensity.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 9. Waste intensity (waste output / value added)_
+<hr>
 
 ## Final thoughts
 
