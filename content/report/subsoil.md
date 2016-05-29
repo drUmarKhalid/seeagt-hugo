@@ -27,23 +27,49 @@ Midway during the analysis period both hydrocarbon and non-metallic mineral extr
 
 <!-- Figure 1. Subsoil resource extraction by type of asset (metric tons)-->
 
+<hr>
+<img src="/float/subsoil/subsoil-output-byasset.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 1. Subsoil resource extraction by type of asset (metric tons)_
+<hr>
+
 Subsoil resources stocks vary negatively as a result from extraction and positively when new discoveries are made. In the case of Guatemala, extractions usually surpass new discoveries so we can see a general downward trend of these stocks. Hydrocarbons, for example, saw a 5% reduction in their availability as a result of extraction, going from 2,861 million metric tons in 2001 to 2,729 in 2006. Non-metallic and metallic minerals saw a 1% reduction by 2006, compared to their stocks in 2001.
 
 <!-- Figure 2. Yearly opening stocks of subsoil resources (percentages 2001= 100%)-->
+
+<hr>
+<img src="/float/subsoil/subsoil-opening-stocks.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 2. Yearly opening stocks of subsoil resources (percentages 2001= 100%)_
+<hr>
 
 The supply of subsoil resources is overwhelmingly dominated by hydrocarbons and non-metallic minerals in comparison with metallic minerals. In the case of hydrocarbons, total supply varied between 19,623 and 30,856 thousands of metric tons annually between 2001 and 2006. This was equivalent to 42% and 59% of total supply, respectively. Non-metallic minerals shows a similar performance. In some years, the supply of these minerals has surpassed that of hydrocarbons, reaching 50% of total subsoil resources supply. Physical supply of metallic minerals has been considerably lower to that of the other two groups. In our analysis years, its relative importance oscillated between 0.2% and 5.8% of total supply.
 
 <!-- Figure 3. Supply of subsoil resources (thousands of metric tons)-->
 
+<hr>
+<img src="/float/subsoil/subsoil-physical-supply.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 3. Physical supply of subsoil resources (thousands of metric tons)_
+<hr>
+
 Total supply has a locally produced component and an imported one. For hydrocarbons and non-metallic minerals the imported portion is not relevant. However, in the case of metallic minerals, imports reached as much as 78% of total supply in 2005 and 48% in the entire period. In contrast, hydrocarbons and non-metallic minerals imported 2% and 8% of total supply from 2001 to 2006, respectively.
 
 <!-- Figure 4. Output vs import of metallic minerals, 2001-2006 (thousands of metric tons)-->
+
+<hr>
+<img src="/float/subsoil/subsoil-metallic-outputvsimports.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 4. Output vs import of metallic minerals, 2001-2006 (thousands of metric tons)_
+<hr>
+
 
 ## Ok, that is supply, but how are subsoil resources used?
 
 Subsoil resources are mostly used as inputs in industrial processes, both from local companies, as well as from abroad. Households consumed between 217 and 354 thousands of metric tons annually in our analysis years. That was equivalent to less than 1% of total supply in any year, which consists of up to 99% of resources for construction processes, such as limestone. In contrast, their use as exports and as inputs in other industries, which we term "intermediate consumption", reached between 73% and 84% of total use in the analysis period.
 
 <!-- Figure 5. Subsoil resource use between 2001 and 2006 (thousands of metric tons)-->
+
+<hr>
+<img src="/float/subsoil/subsoil-by-usetype.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 5. Subsoil resource use between 2001 and 2006 (thousands of metric tons)_
+<hr>
  
 ## And which industries use the most subsoil resources?
 
@@ -59,15 +85,26 @@ We analyze the value of subsoil resources from the perspective of the valuation 
 
 In the case of hydrocarbons, for example, the opening stock valuation rose from 179,679 million quetzales (GTQ) in 2001 to GTQ&nbsp;491,336&nbsp;million, in spite of stock reductions and not attributable to inflation. This situation is explained by a rising trend in international oil prices. Non-metallic minerals, there was a relevant change in valuation from the opening stock of 2004, which was valued at GTQ&nbsp;23,477&nbsp;million, to the opening stock of 2006, valued at GTQ&nbsp;60,949&nbsp;million. A similar situation occurred with metallic minerals, but in a more discrete manner.
 
-<!-- Figure 6. Opening stock valuation (million metric tons and million GTQ)-->
+<!-- Figure 6. Opening stock performance a) physical and b) monetary (million metric tons and million GTQ)-->
+
+<hr>
+<img src="/float/subsoil/subsoil-opening-stock-performance-a.jpg" class="img-responsive" alt="Source: INE (2015)">
+<img src="/float/subsoil/subsoil-opening-stock-performance-b.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 6. Opening stock performance a) physical and b) monetary (million metric tons and million GTQ)_
+<hr>
 
 ## What are the economic benefits of extracting subsoil resources?
 
 In Guatemala, from 2001 to 2006 there was a flow of subsoil resources ranging between GTQ&nbsp;3,392 million and GTQ&nbsp;5,014&nbsp;million, at each year's prices. During the analysis years, industries related these resources increased their contribution to the Guatemalan economy by 90%, going from GTQ&nbsp;2,852&nbsp;million in 2001 to about GTQ&nbsp;5,427&nbsp;million in 2006. Full time equivalent jobs went from 64,236 to 87,025 annually in the same years. Over 40,000 of these jobs were generated in the non-metallic minerals extraction industry. In the case of exports, there is a clear jump from 2005 to 2006 due to the beginning of operations in gold mining from GTQ&nbsp;1,835&nbsp;million to GTQ2,768&nbsp;million. But from all subsoil resources, oil production represented 66% of the value of exports in 2006, while gold and silver represented 27% and 5%, respectively.
 
-All industries related to subsoil resources contributed between 1.94% and 2.34% of GDP annually in the analysis years. From these, the largest value corresponds to the extraction of non-metallic minerals, which averaged 1.05% of GDP. Oil extraction showed the most dynamic performance, going from 0.27% of GDP in 2001 to 0.65% in 2006; an annual average of 0.53% in all six years. The remaining industries represented about 0.20% of GDP annually. 
+All industries related to subsoil resources contributed between 1.94% and 2.34% of GDP annually in the analysis years. From these, the largest value corresponds to products from non-metallic minerals, which averaged 1.05% of GDP. Oil extraction showed the most dynamic performance, going from 0.27% of GDP in 2001 to 0.65% in 2006; an annual average of 0.53% in all six years. The remaining industries represented about 0.20% of GDP annually. 
 
 <!-- Figure 7. Industries related to subsoil resources and their contribution to wealth (percentage of GDP)-->
+
+<hr>
+<img src="/float/subsoil/subsoil-contrib-gdp.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 7. Industries related to subsoil resources and their contribution to wealth (percentage of GDP)_
+<hr>
 
 ## Final thoughts
 
