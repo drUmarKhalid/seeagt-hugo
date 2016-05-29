@@ -381,7 +381,7 @@ We now turn to extended production and income accounts for agricultural industri
 <small>Source: Iarna/Banguat (2010)</small>
 <hr>
 
-## Final thoughts
+## Summary
 
 We've seen how the information readily available from the System of Environmental and Economic Accounts of Guatemala can be used to implement an Agriculture, Forestry, and Fisheries account as proposed by FAO to a certain extent. While there are still a number of aspect that need to be covered by Guatemalan statistical efforts, some of the findings of this pilot implementation are already revealing. 
 

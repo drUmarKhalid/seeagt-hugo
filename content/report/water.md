@@ -187,7 +187,7 @@ Furthermore, table 11 shows these differences for selected individual industries
 <hr>
 
 
-## Final thoughts
+## Summary
 
 We have described the importance of water for various production and consumption processes in the economy using the framework of the System of Environmental and Economic Accounts.
 

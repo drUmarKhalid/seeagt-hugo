@@ -71,9 +71,20 @@ Belicean Cost Mangroves (60%), and Northern Honduras Dry Mangroves (50%).
 
 <!--**[Figure 3. Land use in Eco-regions of Guatemala (2003)]**-->
 
+<hr>
+<img src="/float/ecosystems/ecosystems-landuse.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 3. Land use in Eco-regions of Guatemala (2003)_
+<hr>
+
+
 The area with more agricultural activity in detriment of the forest cover is the Pacific Basin. There are 1.48 million hectares under cultivation. This is 61% of its surface area and almost half of all agricultural land in the country (49.4%). Its forest cover represents only 12% of its area. In contrast, the Gulf of Mexico Basin has a forest cover of 49% of its surface area (about 2.5 million hectares of forests).
 
 <!--**[Figure 4. Land use in Guatemala by Basin (2003)]**-->
+
+<hr>
+<img src="/float/ecosystems/ecosystems-landuse-bybasin.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 4. Land use in Guatemala by Basin (2003)_
+<hr>
 
 
 ## How have forests changed?
@@ -83,6 +94,11 @@ In addition to understanding the current forest cover of a territory, it is illu
 Guatemala lost 880,220 hectares of forest cover between 1991 and 2003, which represented a rate of deforestation of 17.3% for the analysis years, relative to the forest cover in the first year. The main affected areas were the Rainforests of Petén-Veracruz with 540,215 hectares of forest cover lost, and the Pine-Oak Forests of Central America with 192,628 hectares. These regions accounted for 82% of all deforestation in those years. However, the Dry Forests of Central America region saw a most alarming rate of deforestation of 44%. At that pace, forest cover in that region could not last more than 20 years.
 
 <!--**[Figure 5. Evolution of forest cover between 1991 and 2003]**-->
+
+<hr>
+<img src="/float/ecosystems/ecosystems-deforestation.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 5. Evolution of deforestation in Guatemala's eco-regions between 1991 and 2003_
+<hr>
 
 ## Are these eco-regions capable of producing environmental services?
 
@@ -96,13 +112,23 @@ Evaluating the health of an ecosystem is a difficult task given the complexities
 
 The eco-regions with less than 10% forest cover showed the most ecological integrity problems, all of them located in the Pacific Basin. These were the Dry Forests of Central America, RaiRainforests of the Chiapas Sierra Madre and the Pacific Coast Dry North Mangroves.
 
+<!--**[Figure 6. Evolution of forest fragments between 1991 and 2001]**-->
+
+<hr>
+<a href="/float/ecosystems/ecosystems-map-fragments.jpg" target="_blank" title="Click to enlarge"><img src="/float/ecosystems/ecosystems-map-fragments.jpg" class="img-responsive" alt="Source: INE (2015)"></a>
+_Figure 6. Evolution of forest fragments between 1991 and 2001 (click to enlarge)_
+<hr>
+
 There were, however, three regions with fragments large enough to guarantee a minimum ecological integrity, with a surface of 1.4 million hectares, equivalent to 13% of the country's area. These were located in three eco-regions: Rainforest of Petén-Veracruz, Bosque Montano de Centroamérica, and Belicean Cost Mangroves.
 
 <!--**[Table 1. Evolution of forest density between 1991 and 2001]**-->
 
-<!--**[Figure 6. Evolution of forest fragments between 1991 and 2001]**-->
-
 <!--**[Figure 7. Forest fragments with ecological integrity (2003)]**-->
+
+<hr>
+<a href="/float/ecosystems/ecosystems-map-integrity.jpg" target="_blank" title="Click to enlarge"><img src="/float/ecosystems/ecosystems-map-integrity.jpg" class="img-responsive" alt="Source: INE (2015)"></a>
+_Figure 7. Forest fragments with ecological integrity (2003)_
+<hr>
 
 ## What drives the changes?
 
@@ -118,7 +144,7 @@ Deforestation in the various regions resulted in the loss of 15 million tons of 
 
 As a consequence of the loss of forest cover, 368,622,243 tons of CO<sub>2</sub> were released into the atmosphere, with at total cost of Q.1,769.4 million (about $226.8 million) at international carbon market prices. Of these losses, 85% can be attributed to the loss of forest cover in the Rainforests of Petén-Veracruz and the Pine-Oak Forests of Central America.
 
-## Final remarks
+## Summary
 
 In this essay we reviewed the findings of the land and ecosystems account of Guatemala. This account is a framework that determines the current status of the different eco-regions of Guatemala in physical terms and quantifies the rate of their use through an analysis of land use change and its effects on forest cover.
 

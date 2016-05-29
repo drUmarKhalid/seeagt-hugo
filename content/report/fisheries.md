@@ -124,7 +124,7 @@ Those animals that are caught alongside the target species are usually discarded
 _Figure 11. Discards of marine fishing, 2001-2005 (metric tons)_
 <hr>
 
-## Final thoughts and summary of findings
+## Summary
 
 In this essay we presented the fisheries and aquaculture account of Guatemala as a framework that provides information on the link between fish stocks, both cultivated and not cultivated, and the economy. It is interesting to note that:
 
