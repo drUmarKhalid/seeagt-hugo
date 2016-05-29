@@ -20,9 +20,19 @@ In order to answer this question we turn to the change of forest land stock in c
 
 <!-- Figure 2 Land stock change from 1970 to 2005 (percentages, 1970=100) -->
 
+<hr>
+<img src="/float/forests/forests-rateofchange.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 1. Land stock change from 1970 to 2005 (percentages, 1970=100)_
+<hr>
+
 Another important indicator is the rate of deforestation, which helps to measure the impacts of government policies on sustainable resource use. In the case of Guatemala, absolute deforestation rates are stable between 60,000 and 70,000 hectares per year. This represents an annual stock loss of about 1.5% per year. The highest since 1950, and even greater than 1970s records, when population reallocation policies pushed for aggressive changes of forest land into agricultural land. That rate seems high when put in context with others from Latin America from the 1990-2000 decade, such as Brazil (0.4%), Bolivia (0.3%), Colombia (0.4%), Ecuador (1.2%), and Mexico (1.4%). 
 
 <!-- Figure 3 Deforestation rates 1950-2005 (thousands of hectares and percentages of stock relative to the previous year) -->
+
+<hr>
+<img src="/float/forests/forests-deforestation-rates.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 2. Deforestation rates 1950-2005 (thousands of hectares and percentages of stock relative to the previous year)_
+<hr>
 
 There are other causes of reduction of forest volume, such as timber and fuelwood selective extraction, de-branching, forest fires, plagues and diseases, as well as natural mortality. Uncontrolled logging and selective fuelwood extraction is one of the main reasons for forest volume reduction. By forest account estimates more than 95% of forest product flows in the country (30.7 million m<sup>3</sup>) happen outside the control of the forest government authorities (National Institute of Forests&mdash;INAB&mdash;and the National Council for Protected Areas&mdash;CONAP&mdash;). Forest accounting estimates attribute 76% of that uncontrolled forest use to fuelwood extraction and 24% to timber extraction. Up to two thirds of all timber processed by wood processing industries is estimated to come from uncontrolled sources. 
 
@@ -36,15 +46,31 @@ Even when valuating at constant prices of 2001, monetary values of forests incre
 
 <!-- Figure 4 Forest volume and monetary value of forest assets for the years 2001-2006 (cubic metres and valuation at constant prices of 2001) -->
 
+<hr>
+<img src="/float/forests/forests-volume-vs-value.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 3. Forest volume and monetary value of forest assets for the years 2001-2006 (cubic meters and valuation at constant prices of 2001)_
+<hr>
+
 If we contrast forest growth with reduction due to either controlled or uncontrolled logging, it is easy to see that the former does not compensate for the latter. In 2006, for example, that resulted in the loss (or net stock variation) of GTQ2,076 million. On the other hand, uncontrolled logging represented more than GTQ2 billion, which exceeds the value of controlled logging by far.
 
-<!-- Figure 5 Forest stock variation in monetary terms for the year 2006 (million GTQ) -->
+<!-- Figure 5. Forest stock variation in monetary terms for the year 2006 (million GTQ) -->
+
+<hr>
+<img src="/float/forests/forests-stock-variation.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 4. Forest stock variation in monetary terms for the year 2006 (million GTQ)_
+<hr>
 
 ## How are forest products used in the economy?
 
 In terms of volume, households are the largest users of forest products, using 22.6 million m<sup>3</sup>, which represented about 67% of total national consumption. Most of that use (92%) corresponded to fuelwood use. The remainder is mostly used by the saw mill industry and the production of furniture. 
 
-<!-- Figure 6 Main users of forest goods in Guatemala in 2006 (percentages) -->  
+<!-- Figure 6. Main users of forest goods in Guatemala in 2006 (percentages) -->
+
+<hr>
+<img src="/float/forests/forests-main-users.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 5. Main users of forest goods in Guatemala in 2006 (percentages)_
+<hr>
+  
 On the other hand we have total supply of forest products in monetary terms. Primary output contributes 34% of total supply of wood products, with a strong component of logging products and fuelwood. 
 
 Historically, non-wood products have contributed less to total supply and in 2006 they represented about a billion GTQ. In spite of the touted idea that non-wood products represent a high potential, in Guatemala this market is still small. 
@@ -53,9 +79,19 @@ Secondary output, consisting of sawn wood and furniture is responsible for the l
 
 <!-- Figure 7 Supply of forest products in 2006 (percentages) -->
 
+<hr>
+<img src="/float/forests/forests-supply-2006.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 6. Supply of forest products in 2006 (percentages)_
+<hr>
+
 Demand of primary output of forest products (wood products, non-wood products, wild animals and their products) is linked to final household consumption. Intermediate consumption or that used as inputs by other industries, represents about 40%, and exports 12% of total use. These numbers are highly influenced by the use of fuelwood as a source of energy and by a small forest industry with little incidence in exports.
 
 <!-- Figure 8 Demand of forest products in 2006 (percentages of total use at purchaser prices) -->
+
+<hr>
+<img src="/float/forests/forests-use-2006.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 7. Demand of forest products in 2006 (percentages of total use at purchaser prices)_
+<hr>
 
 ## What is the impact of depreciation of forests on economic measures?
 
@@ -65,13 +101,28 @@ Another important finding is that the value of resource exhaustion (or its depre
 
 <!-- Figure 9 Contribution of forests to the economy in 2001 and 2006 (percentages) -->
 
+<hr>
+<img src="/float/forests/forests-contrib-gdp.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 8. Contribution of forests to the economy in 2001 and 2006 (percentages)_
+<hr>
+
 When adjusting GDP for the depreciation of forests, we see only a small reduction of about 1%, which is evidence of a small over-estimation of the true performance of the economy. This could be larger if unsustainable use of other natural resources were included in this calculation. 
 
 <!-- Figure 10 GDP adjusted for the depreciation of forests in 2001 and 2006 (percentages) -->
 
+<hr>
+<img src="/float/forests/forests-gdp-adjusted.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 9. GDP adjusted for the depreciation of forests in 2001 and 2006 (percentages)_
+<hr>
+
 When comparing the direct value of depreciation of forests with public investments which are destined to the protection and regeneration of forests it is evident that they are insufficient to cover the depreciation that we discussed earlier; i.e. the Budget of the National Institute of Forests&mdash;INAB&mdash;, including the National Forest Incentives Program, and the National Council for Protected Areas&mdash;CONAP&mdash;. Forest management expenditures (current and capital expenditure) represent only about 10% of the depreciation.
 
 <!-- Figure 11 Comparison between depreciation of forest resources and forest protection expenditure (percentages) -->
+
+<hr>
+<img src="/float/forests/forests-depreciation-vs-expenditure.jpg" class="img-responsive" alt="Source: INE (2015)">
+_Figure 10. Comparison between depreciation of forest resources and forest protection expenditure in 2006 (percentages)_
+<hr>
 
 ## Final remarks
 
