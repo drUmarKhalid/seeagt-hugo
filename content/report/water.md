@@ -1,11 +1,11 @@
 ---
-date: "2016-03-06T15:59:40-06:00"
 title: "Water"
-author: "Jaime Luis Carrera"
 description: "Water accounting in Guatemala"
+lead: "Water accounting showed that upward of 98% of the water used by the economy is not taken into account by our usual economic performance measures, leading to poor economic decisions with regards to this natural resource."
+author: "Jaime Luis Carrera"
+date: "2016-03-06T15:59:40-06:00"
 pdf: "water.pdf"
 epub: "water.epub"
-lead: "Water accounting showed that upward of 98% of the water used by the economy is not taken into account by our usual economic performance measures, leading to poor economic decisions with regards to this natural resource."
 
 ---
 
