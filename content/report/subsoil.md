@@ -3,6 +3,7 @@ author: ""
 date: 2016-05-24T10:21:49-06:00
 description: "Valuing what lies beneath the surface"
 epub: ""
+image: "chiclet-subsoil.png"
 lead: "The industries related to subsoil resources contributed between 1.94% and 2.34% of GDP annually in the analyzed years, specially owing to the non-metallic minerals extraction industry. Conversely, oil extraction was the largest use of these resources in physical terms."
 pdf: ""
 title: "Subsoil"

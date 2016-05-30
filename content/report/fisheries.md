@@ -2,6 +2,7 @@
 title: Fisheries and aquaculture
 description: "Environmental and economic accounting for fisheries"
 lead: "The total contribution of fish farming and aquaculture to GDP oscillated between 0.19% and 0.25% between 2001 and 2005, which is notably low in the Guatemalan economy."
+image: "chiclet-fisheries.png"
 author: "IARNA-URL/BANGUAT"
 date: 2016-05-26T17:59:21-06:00
 epub: ""

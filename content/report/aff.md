@@ -4,6 +4,7 @@ title: "Agriculture, Forestry, and Fisheries"
 description: "Understanding the Guatemalan food basket"
 author: "Renato Vargas"
 pdf: "aff.pdf"
+image: "chiclet-aff.png"
 lead: "How natural capital accounting revealed that a country that feeds on maize and beans leaves the production of these crops entirely up to climate variability."
 relatedmaterial:
   -

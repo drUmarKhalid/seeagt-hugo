@@ -3,6 +3,7 @@ title: Waste
 description: "Waste accounting in Guatemala"
 lead: "Between 2001 and 2006, the Guatemalan economy generated an average of 97.5 million metric tons of solid waste annually. Of this total, 98% came from the production of goods and services, and only about 2% from households."
 author: "Iarna-URL/BANGUAT"
+image: "chiclet-waste.png"
 date: 2016-05-18T11:00:06-06:00
 pdf: ""
 
