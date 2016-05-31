@@ -7,7 +7,11 @@ image: "chiclet-subsoil.png"
 lead: "The industries related to subsoil resources contributed between 1.94% and 2.34% of GDP annually in the analyzed years, specially owing to the non-metallic minerals extraction industry. Conversely, oil extraction was the largest use of these resources in physical terms."
 pdf: "subsoil.pdf"
 title: "Subsoil"
-relatedmaterial: ""
+relatedmaterial:
+  -
+    filename: "subsoil-t.xlsx"
+    short: "Subsoil resources account tables 2001-2001 (In Spanish)"
+    filetype: "xlsx"
 
 ---
 

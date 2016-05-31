@@ -7,6 +7,16 @@ image: "chiclet-forest.png"
 lead: "Forest accounting revealed that over 95% of deforestation happened outside of the control of government institutions and that the use of fuelwood has a higher impact on forests than previously thought."
 pdf: "forests.pdf"
 title: Forests
+relatedmaterial:
+  -
+    filename: "forest-m3.xlsx"
+    short: "Forest account tables in cubic meters 2001-2001 (In Spanish)"
+    filetype: "xlsx"
+  -
+    filename: "forest-t.xlsx"
+    short: "Forest account tables in metric tons 2001-2001 (In Spanish)"
+    filetype: "xlsx"
+
 ---
 
 ## What is a forest account?

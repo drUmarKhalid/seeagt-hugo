@@ -7,7 +7,15 @@ pdf: "energy.pdf"
 epub: "energy.epub"
 image: "chiclet-energy.png"
 lead: "Natural capital accounting showed that Guatemala is a country whose main source of energy is fuelwood, and it also made clear that the production of electricity is the largest individual user of energy of all kinds, taking up to 3.3 units of energy in other forms to produce one unit of electricity."
-relatedmaterial: ""
+relatedmaterial:
+  -
+    filename: "energy-tj.xlsx"
+    short: "Energy account tables 2001-2001 (In Spanish)"
+    filetype: "xlsx"
+  -
+    filename: "emissions-teco2.xlsx"
+    short: "Energy account emissions tables 2001-2001 (In Spanish)"
+    filetype: "xlsx"
 
 ---
 

@@ -6,6 +6,11 @@ author: "Iarna-URL/BANGUAT"
 image: "chiclet-waste.png"
 date: 2016-05-18T11:00:06-06:00
 pdf: "waste.pdf"
+relatedmaterial:
+  -
+    filename: "waste-t.xlsx"
+    short: "Waste account tables 2001-2001 (In Spanish)"
+    filetype: "xlsx"
 
 ---
 

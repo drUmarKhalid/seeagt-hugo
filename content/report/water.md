@@ -7,6 +7,11 @@ image: "chiclet-water.png"
 date: "2016-03-06T15:59:40-06:00"
 pdf: "water.pdf"
 epub: "water.epub"
+relatedmaterial:
+  -
+    filename: "water-m3.xlsx"
+    short: "Water account tables 2001-2001 (In Spanish)"
+    filetype: "xlsx"
 
 ---
 

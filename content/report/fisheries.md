@@ -7,7 +7,11 @@ author: "IARNA-URL/BANGUAT"
 date: 2016-05-26T17:59:21-06:00
 epub: ""
 pdf: "fisheries.pdf"
-relatedmaterial: ""
+relatedmaterial:
+  -
+    filename: "fisheries-t.xlsx"
+    short: "Fisheries account tables 2001-2001 (In Spanish)"
+    filetype: "xlsx"
 
 ---
 

@@ -7,6 +7,11 @@ image: "chiclet-ecosystem.png"
 lead: "Natural capital accounting revealed that out of fourteen ecosystem regions in Guatemala, nine are severely fragmented to a point where their integrity and the provision of natural goods and services can no longer be guaranteed."
 pdf: "ecosystems.pdf"
 title: "Land and Ecosystems"
+relatedmaterial:
+  -
+    filename: "ecosystems.xlsx"
+    short: "Land and Ecosystem account tables 2001-2001 (In Spanish)"
+    filetype: "xlsx"
 
 ---
 
