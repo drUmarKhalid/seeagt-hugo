@@ -5,7 +5,7 @@ description: "Valuing what lies beneath the surface"
 epub: ""
 image: "chiclet-subsoil.png"
 lead: "The industries related to subsoil resources contributed between 1.94% and 2.34% of GDP annually in the analyzed years, specially owing to the non-metallic minerals extraction industry. Conversely, oil extraction was the largest use of these resources in physical terms."
-pdf: ""
+pdf: "subsoil.pdf"
 title: "Subsoil"
 relatedmaterial: ""
 
@@ -61,7 +61,7 @@ _Figure 4. Output vs import of metallic minerals, 2001-2006 (thousands of metric
 <hr>
 
 
-## Ok, that is supply, but how are subsoil resources used?
+## How are subsoil resources used?
 
 Subsoil resources are mostly used as inputs in industrial processes, both from local companies, as well as from abroad. Households consumed between 217 and 354 thousands of metric tons annually in our analysis years. That was equivalent to less than 1% of total supply in any year, which consists of up to 99% of resources for construction processes, such as limestone. In contrast, their use as exports and as inputs in other industries, which we term "intermediate consumption", reached between 73% and 84% of total use in the analysis period.
 
