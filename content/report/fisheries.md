@@ -6,7 +6,7 @@ image: "chiclet-fisheries.png"
 author: "IARNA-URL/BANGUAT"
 date: 2016-05-26T17:59:21-06:00
 epub: ""
-pdf: ""
+pdf: "fisheries.pdf"
 relatedmaterial: ""
 
 ---
