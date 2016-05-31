@@ -5,7 +5,7 @@ lead: "Between 2001 and 2006, the Guatemalan economy generated an average of 97.
 author: "Iarna-URL/BANGUAT"
 image: "chiclet-waste.png"
 date: 2016-05-18T11:00:06-06:00
-pdf: ""
+pdf: "waste.pdf"
 
 ---
 
