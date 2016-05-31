@@ -8,10 +8,6 @@ image: "chiclet-aff.png"
 lead: "How natural capital accounting revealed that a country that feeds on maize and beans leaves the production of these crops entirely up to climate variability."
 relatedmaterial:
   -
-    filename: "aff.pdf"
-    short: "Understanding the Guatemalan Food Basket"
-    filetype: "pdf"
-  -
     filename: "CuentaSAN.pptx"
     short: "SEEA AFF presentation (In Spanish)"
     filetype: "pptx"
