@@ -16,6 +16,23 @@ relatedmaterial:
     filename: "emissions-teco2.xlsx"
     short: "Energy account emissions tables 2001-2001 (In Spanish)"
     filetype: "xlsx"
+  -
+    filename: "CIEE-bases-teoricas.pdf"
+    short: "CIEE Bases Teóricas (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIEE-folleto.pdf"
+    short: "CIEE Folleto Informativo (In Spanish)"
+    filetype: "pdf"	
+  -
+    filename: "CIEE-resultados.pdf"
+    short: "CIEE Resultados y Análisis (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIEE-resultados.pdf"
+    short: "CIEE Resultados y Análisis (In Spanish)"
+    filetype: "pdf"
+
 
 ---
 

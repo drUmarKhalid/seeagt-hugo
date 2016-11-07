@@ -12,6 +12,18 @@ relatedmaterial:
     filename: "water-m3.xlsx"
     short: "Water account tables 2001-2001 (In Spanish)"
     filetype: "xlsx"
+  -
+    filename: "CIRH-folleto.pdf"
+    short: "CIRH Folleto Informativo (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIRH-resultados.pdf"
+    short: "CIRH Resultados y Análisis (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIRH-bases-teoricas.pdf"
+    short: "CIRH Bases teóricas (In Spanish)"
+    filetype: "pdf"
 
 ---
 

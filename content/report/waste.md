@@ -11,6 +11,18 @@ relatedmaterial:
     filename: "waste-t.xlsx"
     short: "Waste account tables 2001-2001 (In Spanish)"
     filetype: "xlsx"
+  -
+    filename: "CIRE-folleto.pdf"
+    short: "CIRE Folleto Informativo (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIRE-resultados.pdf"
+    short: "CIRE Resultados y Análisis (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIRE-bases-teoricas.pdf"
+    short: "CIRE Bases teóricas (In Spanish)"
+    filetype: "pdf"
 
 ---
 

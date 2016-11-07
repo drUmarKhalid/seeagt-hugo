@@ -12,6 +12,19 @@ relatedmaterial:
     filename: "fisheries-t.xlsx"
     short: "Fisheries account tables 2001-2001 (In Spanish)"
     filetype: "xlsx"
+  -
+    filename: "CIRPA-folleto.pdf"
+    short: "CIRPA Folleto Informativo (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIRPA-resultados.pdf"
+    short: "CIRPA Resultados y Análisis (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIRPA-bases-teoricas.pdf"
+    short: "CIRPA Bases teóricas (In Spanish)"
+    filetype: "pdf"
+
 
 ---
 

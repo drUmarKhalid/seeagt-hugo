@@ -16,6 +16,18 @@ relatedmaterial:
     filename: "forest-t.xlsx"
     short: "Forest account tables in metric tons 2001-2001 (In Spanish)"
     filetype: "xlsx"
+  -
+    filename: "CIB-folleto.pdf"
+    short: "CIB Folleto Informativo (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIB-resultados.pdf"
+    short: "CIB Resultados y Análisis (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIB-bases-teoricas.pdf"
+    short: "CIB Bases teóricas (In Spanish)"
+    filetype: "pdf"
 
 ---
 

@@ -12,6 +12,19 @@ relatedmaterial:
     filename: "subsoil-t.xlsx"
     short: "Subsoil resources account tables 2001-2001 (In Spanish)"
     filetype: "xlsx"
+  -
+    filename: "CIRS-folleto.pdf"
+    short: "CIRS Folleto Informativo (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIRS-resultados.pdf"
+    short: "CIRS Resultados y Análisis (In Spanish)"
+    filetype: "pdf"
+  -
+    filename: "CIRS-bases-teoricas.pdf"
+    short: "CIRS Bases teóricas (In Spanish)"
+    filetype: "pdf"
+
 
 ---
 
